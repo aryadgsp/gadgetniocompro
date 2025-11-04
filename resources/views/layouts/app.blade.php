@@ -120,7 +120,7 @@
                 </div>
             </div>
         </div>
-        <p class="mb-0 text-white text-opacity-70 text-md-center mt-10">Created by <a class="text-white" href="https://www.agdgetnio.com" target="_blank">Gadgetnio Team</a></p>
+        <p class="mb-0 text-white text-opacity-70 text-md-center mt-10">Created by <a class="text-white" href="https://www.gadgetnio.com" target="_blank">Gadgetnio Team</a></p>
     </footer>
 
     <div class="get-template hstack gap-2">
