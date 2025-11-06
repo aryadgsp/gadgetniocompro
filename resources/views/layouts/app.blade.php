@@ -12,6 +12,27 @@
     <link rel="stylesheet" href="{{ asset('assets/css/styles.css') }}">
 </head>
 
+<style>
+.logo img {
+  max-height: 80px; /* ukuran default desktop */
+  width: auto;
+}
+
+/* Tablet */
+@media (max-width: 991.98px) {
+  .logo img {
+    max-height: 60px;
+  }
+}
+
+/* Mobile */
+@media (max-width: 767.98px) {
+  .logo img {
+    max-height: 40px;
+  }
+}
+</style>
+
 <body>
     <!-- Header -->
     <header class="header border-4 border-primary border-top position-fixed start-0 top-0 w-100">
@@ -19,10 +40,10 @@
             <div class="header-wrapper d-flex align-items-center justify-content-between">
                 <div class="logo">
                     <a href="{{ url('/') }}" class="logo-white">
-                        <img src="{{ asset('assets/images/logos/logo-white.svg') }}" alt="logo" class="img-fluid">
+                        <img src="{{ asset('assets/images/logos/white.svg') }}" alt="logo" class="img-fluid">
                     </a>
                     <a href="{{ url('/') }}" class="logo-dark">
-                        <img src="{{ asset('assets/images/logos/logo-dark.svg') }}" alt="logo" class="img-fluid">
+                        <img src="{{ asset('assets/images/logos/dark.svg') }}" alt="logo" class="img-fluid">
                     </a>
                 </div>
                 <div class="d-flex align-items-center gap-4">
