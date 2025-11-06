@@ -13,24 +13,25 @@
 </head>
 
 <style>
-.logo img {
-  max-height: 80px; /* ukuran default desktop */
-  width: auto;
-}
+    .logo img {
+        max-height: 80px;
+        /* ukuran default desktop */
+        width: auto;
+    }
 
-/* Tablet */
-@media (max-width: 991.98px) {
-  .logo img {
-    max-height: 60px;
-  }
-}
+    /* Tablet */
+    @media (max-width: 991.98px) {
+        .logo img {
+            max-height: 60px;
+        }
+    }
 
-/* Mobile */
-@media (max-width: 767.98px) {
-  .logo img {
-    max-height: 40px;
-  }
-}
+    /* Mobile */
+    @media (max-width: 767.98px) {
+        .logo img {
+            max-height: 40px;
+        }
+    }
 </style>
 
 <body>
