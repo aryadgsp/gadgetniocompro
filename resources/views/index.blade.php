@@ -176,7 +176,7 @@
                             <div class="col-xxl-8">
                                 <div class="d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                                     data-aos-duration="1000">
-                                    <h2 class="mb-0">Trusted By Lead Brands</h2>
+                                    <h2 class="mb-0 fs-11">Trusted By Leading Brands</h2>
                                     <p class="fs-5 mb-0">We proudly distribute and collaborate with top-tier
                                         brands in the electronics and gadget industry.</p>
                                 </div>
