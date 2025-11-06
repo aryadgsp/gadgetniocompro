@@ -43,7 +43,7 @@
                 <h2 class="fw-bold mb-0">Trusted by Leading Brands</h2>
             </div>
             <div class="row">
-                <div class="col-lg-6 mb-7">
+                <div class="col-lg-4 mb-7">
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative overflow-hidden">
@@ -64,7 +64,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 mb-7">
+                <div class="col-lg-4 mb-7">
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="200"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative overflow-hidden">
@@ -85,7 +85,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 mb-7">
+                <div class="col-lg-4 mb-7">
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="300"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative overflow-hidden">
@@ -106,7 +106,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 mb-7">
+                <div class="col-lg-4 mb-7">
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="400"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative overflow-hidden">
@@ -127,7 +127,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 mb-7">
+                <div class="col-lg-4 mb-7">
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="500"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative overflow-hidden">
@@ -148,7 +148,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 mb-7">
+                <div class="col-lg-4 mb-7">
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="600"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative overflow-hidden">
