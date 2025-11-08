@@ -48,7 +48,7 @@
                             <div class="col-xxl-8">
                                 <div class="d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                                     data-aos-duration="1000">
-                                    <h2 class="mb-0">Our Numbers Speak for Themselves.</h2>
+                                    <h2 class="mb-0">Our Numbers Speaks for Themselves.</h2>
                                     <p class="fs-5 mb-0">We deliver innovative gadgets and high-quality
                                         electronics to help people and businesses stay ahead in a fast-changing digital world.</p>
                                 </div>
@@ -201,8 +201,8 @@
                             <div class="portfolio-details d-flex flex-column gap-3">
                                 <h3 class="mb-0">BRAND 1</h3>
                                 <div class="hstack gap-2">
-                                    <span class="badge text-dark border">UX Strategy</span>
-                                    <span class="badge text-dark border">UI Design</span>
+                                    <span class="badge text-dark border">CCTV</span>
+                                    <span class="badge text-dark border">CCTV ACCESSORIES</span>
                                 </div>
                             </div>
                         </div>
@@ -221,8 +221,8 @@
                             <div class="portfolio-details d-flex flex-column gap-3">
                                 <h3 class="mb-0">BRAND 2</h3>
                                 <div class="hstack gap-2">
-                                    <span class="badge text-dark border">Web development</span>
-                                    <span class="badge text-dark border">Digital design</span>
+                                    <span class="badge text-dark border">CABLE</span>
+                                    <span class="badge text-dark border">GADGET ACCESSORIES</span>
                                 </div>
                             </div>
                         </div>
@@ -241,8 +241,8 @@
                             <div class="portfolio-details d-flex flex-column gap-3">
                                 <h3 class="mb-0">BRAND 3</h3>
                                 <div class="hstack gap-2">
-                                    <span class="badge text-dark border">UI/UX design</span>
-                                    <span class="badge text-dark border">Web development</span>
+                                    <span class="badge text-dark border">CHARGER</span>
+                                    <span class="badge text-dark border">CABLE</span>
                                 </div>
                             </div>
                         </div>
@@ -261,8 +261,8 @@
                             <div class="portfolio-details d-flex flex-column gap-3">
                                 <h3 class="mb-0">BRAND 4</h3>
                                 <div class="hstack gap-2">
-                                    <span class="badge text-dark border">Brand identity</span>
-                                    <span class="badge text-dark border">Digital design</span>
+                                    <span class="badge text-dark border">VACUUM CLEANER</span>
+                                    <span class="badge text-dark border">VACUUM CLEANER ACCESSORIES</span>
                                 </div>
                             </div>
                         </div>
@@ -281,8 +281,8 @@
                             <div class="portfolio-details d-flex flex-column gap-3">
                                 <h3 class="mb-0">BRAND 5</h3>
                                 <div class="hstack gap-2">
-                                    <span class="badge text-dark border">Photography</span>
-                                    <span class="badge text-dark border">Studio</span>
+                                    <span class="badge text-dark border">SMARTWATCH</span>
+                                    <span class="badge text-dark border">SMARTWATCH CHARGER</span>
                                 </div>
                             </div>
                         </div>
@@ -301,8 +301,8 @@
                             <div class="portfolio-details d-flex flex-column gap-3">
                                 <h3 class="mb-0">BRAND 6</h3>
                                 <div class="hstack gap-2">
-                                    <span class="badge text-dark border">Digital design</span>
-                                    <span class="badge text-dark border">Web development</span>
+                                    <span class="badge text-dark border">SMARTHOME</span>
+                                    <span class="badge text-dark border">WIFI</span>
                                 </div>
                             </div>
                         </div>
