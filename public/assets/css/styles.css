@@ -31,6 +31,7 @@
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
   --bs-primary: #008CFF;
+  --bs-primary-white: #ffff;
   --bs-secondary: #1f2a2e;
   --bs-light: rgba(31, 42, 46, 0.12);
   --bs-dark: #1F2A2E;
@@ -16416,7 +16417,7 @@ textarea.form-control-lg {
 }
 .header.fixed-header {
   padding: 20px 0;
-  background-color: var(--bs-primary);
+  background-color: var(--bs-primary-white);
 }
 .header.fixed-header .logo .logo-dark {
   display: block;
