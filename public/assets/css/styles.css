@@ -30,7 +30,7 @@
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
-  --bs-primary: #F4F8FA;
+  --bs-primary: #008CFF;
   --bs-secondary: #1f2a2e;
   --bs-light: rgba(31, 42, 46, 0.12);
   --bs-dark: #1F2A2E;
@@ -95,8 +95,8 @@
   --bs-link-color: #1F2A2E;
   --bs-link-color-rgb: 31, 42, 46;
   --bs-link-decoration: underline;
-  --bs-link-hover-color: #C1FF72;
-  --bs-link-hover-color-rgb: 193, 255, 114;
+  --bs-link-hover-color: #008CFF;
+  --bs-link-hover-color-rgb: 0, 140, 255;
   --bs-code-color: #d63384;
   --bs-highlight-color: rgba(31, 42, 46, 0.7);
   --bs-highlight-bg: #fff3cd;
@@ -4142,7 +4142,7 @@ textarea.form-control-lg {
 .nav-pills {
   --bs-nav-pills-border-radius: var(--bs-border-radius);
   --bs-nav-pills-link-active-color: #fff;
-  --bs-nav-pills-link-active-bg: #C1FF72;
+  --bs-nav-pills-link-active-bg: #008CFF;
 }
 .nav-pills .nav-link {
   border-radius: var(--bs-nav-pills-border-radius);
