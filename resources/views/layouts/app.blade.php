@@ -65,25 +65,25 @@
                                         <li class="header-item">
                                             <a href="{{ url('/') }}" aria-current="true"
                                                 class="header-link active hstack gap-2 fs-7 fw-bold text-dark">
-                                                <img src="{{ asset('assets/images/svgs/secondary-leaf.svg') }}" alt="" width="20" height="20"
+                                                <img src="{{ asset('assets/images/logos/logo for spin 2nd.svg') }}" alt="" width="20" height="20"
                                                     class="img-fluid animate-spin">Home
                                             </a>
                                         </li>
                                         <li class="header-item">
                                             <a href="{{ url('/about-us') }}" class="header-link hstack gap-2 fs-7 fw-bold text-dark">
-                                                <img src="{{ asset('assets/images/svgs/secondary-leaf.svg') }}" alt="" width="20" height="20"
+                                                <img src="{{ asset('assets/images/logos/logo for spin 2nd.svg') }}" alt="" width="20" height="20"
                                                     class="img-fluid animate-spin">About
                                             </a>
                                         </li>
                                         <li class="header-item">
                                             <a href="{{ url('/portfolio') }}" class="header-link hstack gap-2 fs-7 fw-bold text-dark">
-                                                <img src="{{ asset('assets/images/svgs/secondary-leaf.svg') }}" alt="" width="20" height="20"
+                                                <img src="{{ asset('assets/images/logos/logo for spin 2nd.svg') }}" alt="" width="20" height="20"
                                                     class="img-fluid animate-spin">Portfolio
                                             </a>
                                         </li>
                                         <li class="header-item">
                                             <a href="{{ url('/contact') }}" class="header-link hstack gap-2 fs-7 fw-bold text-dark">
-                                                <img src="{{ asset('assets/images/svgs/secondary-leaf.svg') }}" alt="" width="20" height="20"
+                                                <img src="{{ asset('assets/images/logos/logo for spin 2nd.svg') }}" alt="" width="20" height="20"
                                                     class="img-fluid animate-spin">Contact
                                             </a>
                                         </li>
