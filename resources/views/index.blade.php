@@ -15,7 +15,7 @@
                     <div class="col-xl-4">
                         <div class="d-flex align-items-center gap-4" data-aos="fade-up" data-aos-delay="100"
                             data-aos-duration="1000">
-                            <img src="../assets/images/svgs/primary-leaf.svg" alt="" class="img-fluid animate-spin">
+                            <img src="../assets/images/logos/logo for spin.svg" alt="" class="img-fluid animate-spin">
                             <p class="mb-0 text-white fs-5 text-opacity-70">We <span
                                     class="text-primary">Empowering Your Digital Lifestyle.</span> Your trusted electronic and gadget distributor,
                                 connecting world-class brands with the Indonesian market.</p>
