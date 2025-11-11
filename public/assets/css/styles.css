@@ -38,6 +38,7 @@
   --bs-dark-light: rgba(31, 42, 46, 0.7);
   --bs-light-gray: #F4F8FA;
   --bs-primary-rgb: 0, 140, 255;
+  --bs-primary-rgb-white: 255, 255, 255;
   --bs-secondary-rgb: 31, 42, 46;
   --bs-light-rgb: 31, 42, 46;
   --bs-dark-rgb: 31, 42, 46;
