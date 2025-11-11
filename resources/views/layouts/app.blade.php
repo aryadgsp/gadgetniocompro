@@ -148,7 +148,7 @@
     <div class="get-template hstack gap-2">
         <button class="btn bg-primary p-2 round-52 rounded-circle hstack justify-content-center flex-shrink-0"
             id="scrollToTopBtn">
-            <iconify-icon icon="lucide:arrow-up" class="fs-7 text-dark"></iconify-icon>
+            <iconify-icon icon="lucide:arrow-up" class="fs-7 text-white"></iconify-icon>
         </button>
     </div>
 
