@@ -158,7 +158,7 @@
     </section>
 
     <!--  Featured Projects Section -->
-    <section class="featured-projects py-5 py-lg-11 py-xl-12 bg-light-gray">
+    <!-- <section class="featured-projects py-5 py-lg-11 py-xl-12 bg-light-gray">
         <div class="d-flex flex-column gap-5 gap-xl-11">
             <div class="container">
                 <div class="row gap-7 gap-xl-0">
@@ -310,10 +310,10 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!--  Services Section -->
-    <section class="services py-5 py-lg-11 py-xl-12 bg-dark" id="services">
+    <section class="services py-5 py-lg-11 py-xl-12 bg-light-gray" id="services">
         <div class="container">
             <div class="d-flex flex-column gap-5 gap-xl-10">
                 <div class="row gap-7 gap-xl-0">
@@ -321,9 +321,9 @@
                         <div class="d-flex align-items-center gap-7 py-2" data-aos="fade-right" data-aos-delay="100"
                             data-aos-duration="1000">
                             <span
-                                class="round-36 flex-shrink-0 text-white rounded-circle bg-primary hstack justify-content-center fw-medium">03</span>
+                                class="round-36 flex-shrink-0 text-white rounded-circle bg-primary hstack justify-content-center fw-medium">02</span>
                             <hr class="border-line bg-white">
-                            <span class="badge text-dark bg-white">What We Do</span>
+                            <span class="badge text-white bg-dark">What We Do</span>
                         </div>
                     </div>
                     <div class="col-xl-8 col-xxl-7">
@@ -331,8 +331,8 @@
                             <div class="col-xxl-8">
                                 <div class="d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                                     data-aos-duration="1000">
-                                    <h2 class="mb-0 text-white">Delivering Technology, Connecting People</h2>
-                                    <p class="fs-5 mb-0 text-white text-opacity-70">Gadgetnio Group offers comprehensive distribution and supply solutions
+                                    <h2 class="mb-0">Delivering Technology, Connecting People</h2>
+                                    <p class="fs-5 mb-0 text-opacity-70">Gadgetnio Group offers comprehensive distribution and supply solutions
                                         for both businesses and consumers.</p>
                                 </div>
                             </div>
@@ -366,12 +366,12 @@
                                         role="presentation">
                                         <div class="row w-100 align-items-center gx-3">
                                             <div class="col-lg-6 col-xxl-5">
-                                                <button class="nav-link fs-10 fw-bold py-1 px-0 border-0 rounded-0 flex-shrink-0 active"
+                                                <button class="nav-link fs-10 fw-bold py-1 px-0 border-0 rounded-0 flex-shrink-0 active text-black"
                                                     id="one-tab" data-bs-toggle="tab" data-bs-target="#one" type="button" role="tab"
                                                     aria-controls="one" aria-selected="true">Gadget & Electronics Distribution</button>
                                             </div>
                                             <div class="col-lg-6 col-xxl-7">
-                                                <p class="text-white text-opacity-70 mb-0">
+                                                <p class="text-black text-opacity-70 mb-0">
                                                     When selecting a web design agency, it's essential to consider its reputation, experience,
                                                     and
                                                     the
@@ -385,12 +385,12 @@
                                         role="presentation">
                                         <div class="row w-100 align-items-center gx-3">
                                             <div class="col-lg-6 col-xxl-5">
-                                                <button class="nav-link fs-10 fw-bold py-1 px-0 border-0 rounded-0 flex-shrink-0" id="two-tab"
+                                                <button class="nav-link fs-10 fw-bold py-1 px-0 border-0 rounded-0 flex-shrink-0 text-black" id="two-tab"
                                                     data-bs-toggle="tab" data-bs-target="#two" type="button" role="tab" aria-controls="two"
                                                     aria-selected="false">Retail & Wholesale Partnerships</button>
                                             </div>
                                             <div class="col-lg-6 col-xxl-7">
-                                                <p class="text-white text-opacity-70 mb-0">
+                                                <p class="text-black text-opacity-70 mb-0">
                                                     When selecting a web design agency, it's essential to consider its reputation, experience,
                                                     and
                                                     the
@@ -404,12 +404,12 @@
                                         role="presentation">
                                         <div class="row w-100 align-items-center gx-3">
                                             <div class="col-lg-6 col-xxl-5">
-                                                <button class="nav-link fs-10 fw-bold py-1 px-0 border-0 rounded-0 flex-shrink-0"
+                                                <button class="nav-link fs-10 fw-bold py-1 px-0 border-0 rounded-0 flex-shrink-0 text-black"
                                                     id="three-tab" data-bs-toggle="tab" data-bs-target="#three" type="button" role="tab"
                                                     aria-controls="three" aria-selected="false">Efficient Logistics & After-Sales Support</button>
                                             </div>
                                             <div class="col-lg-6 col-xxl-7">
-                                                <p class="text-white text-opacity-70 mb-0">
+                                                <p class="text-black text-opacity-70 mb-0">
                                                     When selecting a web design agency, it's essential to consider its reputation, experience,
                                                     and
                                                     the
@@ -423,12 +423,12 @@
                                         role="presentation">
                                         <div class="row w-100 align-items-center gx-3">
                                             <div class="col-lg-6 col-xxl-5">
-                                                <button class="nav-link fs-10 fw-bold py-1 px-0 border-0 rounded-0 flex-shrink-0"
+                                                <button class="nav-link fs-10 fw-bold py-1 px-0 border-0 rounded-0 flex-shrink-0 text-black"
                                                     id="four-tab" data-bs-toggle="tab" data-bs-target="#four" type="button" role="tab"
                                                     aria-controls="four" aria-selected="false">Corporate Procurement Solutions</button>
                                             </div>
                                             <div class="col-lg-6 col-xxl-7">
-                                                <p class="text-white text-opacity-70 mb-0">
+                                                <p class="text-black text-opacity-70 mb-0">
                                                     When selecting a web design agency, it's essential to consider its reputation, experience,
                                                     and
                                                     the
@@ -440,7 +440,7 @@
                                 </ul>
                                 <a href="/portfolio" class="btn border border-white border-opacity-25" data-aos="fade-up"
                                     data-aos-delay="300" data-aos-duration="1000">
-                                    <span class="btn-text">See Our Partners</span>
+                                    <span class="btn-text text-white">See Our Partners</span>
                                     <iconify-icon icon="lucide:arrow-up-right"
                                         class="btn-icon bg-white text-dark round-52 rounded-circle hstack justify-content-center fs-7 shadow-sm"></iconify-icon>
                                 </a>
@@ -461,7 +461,7 @@
                         <div class="d-flex align-items-center gap-7 py-2" data-aos="fade-right" data-aos-delay="100"
                             data-aos-duration="1000">
                             <span
-                                class="round-36 flex-shrink-0 text-white rounded-circle bg-primary hstack justify-content-center fw-medium">04</span>
+                                class="round-36 flex-shrink-0 text-white rounded-circle bg-primary hstack justify-content-center fw-medium">03</span>
                             <hr class="border-line">
                             <span class="badge text-bg-dark">Why Choose Us</span>
                         </div>
@@ -590,7 +590,7 @@
                         <div class="d-flex align-items-center gap-7 py-2" data-aos="fade-right" data-aos-delay="100"
                             data-aos-duration="1000">
                             <span
-                                class="round-36 flex-shrink-0 text-white rounded-circle bg-primary hstack justify-content-center fw-medium">05</span>
+                                class="round-36 flex-shrink-0 text-white rounded-circle bg-primary hstack justify-content-center fw-medium">04</span>
                             <hr class="border-line bg-white">
                             <span class="badge text-bg-dark">Testimonial</span>
                         </div>
@@ -696,7 +696,7 @@
                         <div class="d-flex align-items-center gap-7 py-2" data-aos="fade-right" data-aos-delay="100"
                             data-aos-duration="1000">
                             <span
-                                class="round-36 flex-shrink-0 text-white rounded-circle bg-primary hstack justify-content-center fw-medium">06</span>
+                                class="round-36 flex-shrink-0 text-white rounded-circle bg-primary hstack justify-content-center fw-medium">05</span>
                             <hr class="border-line bg-white">
                             <span class="badge text-bg-dark">FAQs</span>
                         </div>
@@ -791,7 +791,7 @@
     </section>
 
     <!--  Get in touch Section -->
-    <section class="get-in-touch py-5 py-lg-11 py-xl-12">
+    <section class="get-in-touch py-5 py-lg-11 py-xl-12 bg-light-gray">
         <div class="container">
             <div class="d-flex flex-column gap-5 gap-xl-10">
                 <div class="row gap-7 gap-xl-0">
@@ -799,7 +799,7 @@
                         <div class="d-flex align-items-center gap-7 py-2" data-aos="fade-right" data-aos-delay="100"
                             data-aos-duration="1000">
                             <span
-                                class="round-36 flex-shrink-0 text-white rounded-circle bg-primary hstack justify-content-center fw-medium">07</span>
+                                class="round-36 flex-shrink-0 text-white rounded-circle bg-primary hstack justify-content-center fw-medium">06</span>
                             <hr class="border-line bg-white">
                             <span class="badge text-bg-dark">Contact us</span>
                         </div>
@@ -818,7 +818,7 @@
                 <div class="row justify-content-between gap-7 gap-xl-0">
                     <div class="col-xl-3">
                         <p class="mb-0 fs-5" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">Let’s collaborate
-                            and create something amazing! Tell me about your product—I’m all
+                            and create something amazing! Tell me about your product—We all
                             ears.</p>
                     </div>
                     <div class="col-xl-8">
@@ -828,15 +828,19 @@
                                     placeholder="Name">
                             </div>
                             <div>
+                                <input type="tel" class="form-control border-bottom border-dark"
+                                    id="exampleInputPhone" placeholder="Phone" aria-describedby="phoneHelp">
+                            </div>
+                            <div>
                                 <input type="email" class="form-control border-bottom border-dark" id="exampleInputEmail1"
                                     placeholder="Email" aria-describedby="emailHelp">
                             </div>
                             <div>
                                 <textarea class="form-control border-bottom border-dark" id="exampleFormControlTextarea1"
-                                    placeholder="Tell us about your project" rows="3"></textarea>
+                                    placeholder="Tell us about your project/offer" rows="3"></textarea>
                             </div>
                             <button type="submit" class="btn w-100 justify-content-center">
-                                <span class="btn-text">Submit message</span>
+                                <span class="btn-text text-white">Submit message</span>
                                 <iconify-icon icon="lucide:arrow-up-right"
                                     class="btn-icon bg-white text-dark round-52 rounded-circle hstack justify-content-center fs-7 shadow-sm"></iconify-icon>
                             </button>

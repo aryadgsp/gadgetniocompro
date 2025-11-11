@@ -103,19 +103,19 @@
 
     @yield('content')
 
-    <footer class="footer bg-dark py-5 py-lg-11 py-xl-12">
+    <footer class="footer bg-white py-5 py-lg-11 py-xl-12">
         <div class="container">
             <div class="row">
                 <div class="col-xl-5 mb-8 mb-xl-0">
                     <div class="d-flex flex-column gap-8 pe-xl-5">
-                        <h2 class="mb-0 text-white">Build something together?</h2>
+                        <h2 class="mb-0 text-black">Build something together?</h2>
                         <div class="d-flex flex-column gap-2">
-                            <a href="https://www.gadgetnio.com/" target="_blank" class="link-hover hstack gap-3 text-white fs-5">
+                            <a href="https://www.gadgetnio.com/" target="_blank" class="link-hover hstack gap-3 text-black fs-5">
                                 <iconify-icon icon="lucide:arrow-up-right" class="fs-7 text-primary"></iconify-icon>
                                 Gadgetnio
                             </a>
                             <a href="https://maps.app.goo.gl/vN3kjhX9WRJ3AgSU9" target="_blank"
-                                class="link-hover hstack gap-3 text-white fs-5">
+                                class="text-black link-hover hstack gap-3 text-black fs-5">
                                 <iconify-icon icon="lucide:map-pin" class="fs-7 text-primary"></iconify-icon>
                                 Gadgetnio
                             </a>
@@ -124,25 +124,25 @@
                 </div>
                 <div class="col-md-4 col-xl-2 mb-8 mb-xl-0">
                     <ul class="footer-menu list-unstyled mb-0 d-flex flex-column gap-2">
-                        <li><a class="link-hover fs-5 text-white" href="/">Home</a></li>
-                        <li><a class="link-hover fs-5 text-white" href="/about-us">About</a></li>
-                        <li><a class="link-hover fs-5 text-white" href="/portfolio">Portfolio</a></li>
-                        <li><a class="link-hover fs-5 text-white" href="/contact">Contact</a></li>
+                        <li><a class="link-hover fs-5 text-black" href="/">Home</a></li>
+                        <li><a class="link-hover fs-5 text-black" href="/about-us">About</a></li>
+                        <li><a class="link-hover fs-5 text-black" href="/portfolio">Portfolio</a></li>
+                        <li><a class="link-hover fs-5 text-black" href="/contact">Contact</a></li>
                     </ul>
                 </div>
                 <div class="col-md-4 col-xl-2 mb-8 mb-xl-0">
                     <ul class="footer-menu list-unstyled mb-0 d-flex flex-column gap-2">
-                        <li><a class="link-hover fs-5 text-white" href="#!">Facebook</a></li>
-                        <li><a class="link-hover fs-5 text-white" href="#!">Instagram</a></li>
-                        <li><a class="link-hover fs-5 text-white" href="#!">Twitter</a></li>
+                        <li><a class="link-hover fs-5 text-black" href="#!">Facebook</a></li>
+                        <li><a class="link-hover fs-5 text-black" href="#!">Instagram</a></li>
+                        <li><a class="link-hover fs-5 text-black" href="#!">Twitter</a></li>
                     </ul>
                 </div>
                 <div class="col-md-4 col-xl-3 mb-8 mb-xl-0">
-                    <p class="mb-0 text-white text-opacity-70 text-md-end">© Gadgetnio copyright 2025</p>
+                    <p class="mb-0 text-black text-opacity-70 text-md-end">© Gadgetnio copyright 2025</p>
                 </div>
             </div>
         </div>
-        <p class="mb-0 text-white text-opacity-70 text-md-center mt-10">Created by <a class="text-white" href="https://www.gadgetnio.com" target="_blank">Gadgetnio Team</a></p>
+        <p class="mb-0 text-black text-opacity-70 text-md-center mt-10">Created by <a class="text-black" href="https://www.gadgetnio.com" target="_blank">Gadgetnio Team</a></p>
     </footer>
 
     <div class="get-template hstack gap-2">
