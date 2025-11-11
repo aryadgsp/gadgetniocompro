@@ -37,7 +37,7 @@
                     <div class="d-flex align-items-center gap-7 py-2" data-aos="fade-right" data-aos-delay="100"
                         data-aos-duration="1000">
                         <span
-                            class="round-36 flex-shrink-0 text-dark rounded-circle bg-primary hstack justify-content-center fw-medium">01</span>
+                            class="round-36 flex-shrink-0 text-white rounded-circle bg-primary hstack justify-content-center fw-medium">01</span>
                         <hr class="border-line">
                         <span class="badge text-bg-dark">Stats & facts</span>
                     </div>
@@ -166,7 +166,7 @@
                         <div class="d-flex align-items-center gap-7 py-2" data-aos="fade-right" data-aos-delay="100"
                             data-aos-duration="1000">
                             <span
-                                class="round-36 flex-shrink-0 text-dark rounded-circle bg-primary hstack justify-content-center fw-medium">02</span>
+                                class="round-36 flex-shrink-0 text-white rounded-circle bg-primary hstack justify-content-center fw-medium">02</span>
                             <hr class="border-line">
                             <span class="badge text-bg-dark">Brands</span>
                         </div>
@@ -321,7 +321,7 @@
                         <div class="d-flex align-items-center gap-7 py-2" data-aos="fade-right" data-aos-delay="100"
                             data-aos-duration="1000">
                             <span
-                                class="round-36 flex-shrink-0 text-dark rounded-circle bg-primary hstack justify-content-center fw-medium">03</span>
+                                class="round-36 flex-shrink-0 text-white rounded-circle bg-primary hstack justify-content-center fw-medium">03</span>
                             <hr class="border-line bg-white">
                             <span class="badge text-dark bg-white">What We Do</span>
                         </div>
@@ -461,7 +461,7 @@
                         <div class="d-flex align-items-center gap-7 py-2" data-aos="fade-right" data-aos-delay="100"
                             data-aos-duration="1000">
                             <span
-                                class="round-36 flex-shrink-0 text-dark rounded-circle bg-primary hstack justify-content-center fw-medium">04</span>
+                                class="round-36 flex-shrink-0 text-white rounded-circle bg-primary hstack justify-content-center fw-medium">04</span>
                             <hr class="border-line">
                             <span class="badge text-bg-dark">Why Choose Us</span>
                         </div>
@@ -590,7 +590,7 @@
                         <div class="d-flex align-items-center gap-7 py-2" data-aos="fade-right" data-aos-delay="100"
                             data-aos-duration="1000">
                             <span
-                                class="round-36 flex-shrink-0 text-dark rounded-circle bg-primary hstack justify-content-center fw-medium">05</span>
+                                class="round-36 flex-shrink-0 text-white rounded-circle bg-primary hstack justify-content-center fw-medium">05</span>
                             <hr class="border-line bg-white">
                             <span class="badge text-bg-dark">Testimonial</span>
                         </div>
@@ -696,7 +696,7 @@
                         <div class="d-flex align-items-center gap-7 py-2" data-aos="fade-right" data-aos-delay="100"
                             data-aos-duration="1000">
                             <span
-                                class="round-36 flex-shrink-0 text-dark rounded-circle bg-primary hstack justify-content-center fw-medium">06</span>
+                                class="round-36 flex-shrink-0 text-white rounded-circle bg-primary hstack justify-content-center fw-medium">06</span>
                             <hr class="border-line bg-white">
                             <span class="badge text-bg-dark">FAQs</span>
                         </div>
@@ -799,7 +799,7 @@
                         <div class="d-flex align-items-center gap-7 py-2" data-aos="fade-right" data-aos-delay="100"
                             data-aos-duration="1000">
                             <span
-                                class="round-36 flex-shrink-0 text-dark rounded-circle bg-primary hstack justify-content-center fw-medium">07</span>
+                                class="round-36 flex-shrink-0 text-white rounded-circle bg-primary hstack justify-content-center fw-medium">07</span>
                             <hr class="border-line bg-white">
                             <span class="badge text-bg-dark">Contact us</span>
                         </div>
