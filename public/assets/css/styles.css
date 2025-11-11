@@ -42,7 +42,7 @@
   --bs-primary-rgb-white: 255, 255, 255;
   --bs-secondary-rgb: 31, 42, 46;
   --bs-light-rgb: 31, 42, 46;
-  --bs-dark-rgb: 31, 42, 46;
+  --bs-dark-rgb: 0, 140, 255;
   --bs-muted-rgb: 31, 42, 46;
   --bs-dark-light-rgb: 31, 42, 46;
   --bs-light-gray-rgb: 244, 248, 250;
