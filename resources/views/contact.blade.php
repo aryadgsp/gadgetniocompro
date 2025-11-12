@@ -78,6 +78,10 @@
                                     placeholder="Name">
                             </div>
                             <div>
+                                <input type="tel" class="form-control border-bottom border-dark"
+                                    id="exampleInputPhone" placeholder="Phone" aria-describedby="phoneHelp">
+                            </div>
+                            <div>
                                 <input type="email" class="form-control border-bottom border-dark" id="exampleInputEmail1"
                                     placeholder="Email" aria-describedby="emailHelp">
                             </div>
