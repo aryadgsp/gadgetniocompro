@@ -147,7 +147,7 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="300"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative overflow-hidden">
-                            <img src="../assets/images/portfolio/portfolio-img-6.jpg" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/lenovo.png" alt="" class="img-fluid w-100">
                             <div class="portfolio-overlay">
                                 <a href="projects-detail.html"
                                     class="position-absolute top-50 start-50 translate-middle bg-primary round-64 rounded-circle hstack justify-content-center">
@@ -156,7 +156,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">BRAND 3</h3>
+                            <h3 class="mb-0">LENOVO</h3>
                             <div class="hstack gap-2">
                                 <span class="badge text-dark border">CHARGER</span>
                                 <span class="badge text-dark border">CABLE</span>
