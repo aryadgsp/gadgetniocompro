@@ -1,6 +1,62 @@
 @extends('layouts.app')
 @section('content')
+<style>
+    .portfolio-img {
+        position: relative;
+        overflow: hidden;
+    }
 
+    .portfolio-img img {
+        transition: transform 0.6s ease;
+    }
+
+    .portfolio-img:hover img {
+        transform: scale(1.1);
+    }
+
+    /* overlay background */
+    .portfolio-overlay {
+        position: absolute;
+        inset: 0;
+        background: rgba(0, 0, 0, 0.6);
+        opacity: 0;
+        transition: opacity 0.4s ease;
+    }
+
+    /* teks dan tombol */
+    .portfolio-content {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%) translateY(20px);
+        text-align: center;
+        opacity: 0;
+        transition: all 0.5s ease;
+    }
+
+    .portfolio-content h5 {
+        color: #ffffff;
+        font-size: 1.1rem;
+        font-weight: 700;
+        margin-bottom: 6px;
+        letter-spacing: 0.3px;
+        text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+    }
+
+    .portfolio-content a {
+        margin-top: 10px;
+    }
+
+    /* hover state */
+    .portfolio-img:hover .portfolio-overlay {
+        opacity: 1;
+    }
+
+    .portfolio-img:hover .portfolio-content {
+        opacity: 1;
+        transform: translate(-50%, -50%) translateY(0);
+    }
+</style>
 <!--  Page Wrapper -->
 <div class="page-wrapper overflow-hidden">
 
@@ -46,21 +102,23 @@
                 <div class="col-lg-4 mb-7">
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
-                        <div class="portfolio-img position-relative overflow-hidden">
+                        <div class="portfolio-img position-relative">
                             <img src="../assets/images/portfolio/portfolio-img-5.jpg" alt="" class="img-fluid w-100">
-                            <div class="portfolio-overlay">
-                                <a href="projects-detail.html"
-                                    class="position-absolute top-50 start-50 translate-middle bg-primary round-64 rounded-circle hstack justify-content-center">
-                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-8 text-dark"></iconify-icon>
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
                                 </a>
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">BRAND 1</h3>
-                            <div class="hstack gap-2">
-                                <span class="badge text-dark border">CCTV</span>
-                                <span class="badge text-dark border">CCTV ACCESSORIES</span>
-                            </div>
+                            <h3 class="mb-0">UGREEN</h3>
                         </div>
                     </div>
                 </div>
@@ -72,7 +130,7 @@
                             <div class="portfolio-overlay">
                                 <a href="projects-detail.html"
                                     class="position-absolute top-50 start-50 translate-middle bg-primary round-64 rounded-circle hstack justify-content-center">
-                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-8 text-dark"></iconify-icon>
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-8 text-white"></iconify-icon>
                                 </a>
                             </div>
                         </div>
@@ -93,7 +151,7 @@
                             <div class="portfolio-overlay">
                                 <a href="projects-detail.html"
                                     class="position-absolute top-50 start-50 translate-middle bg-primary round-64 rounded-circle hstack justify-content-center">
-                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-8 text-dark"></iconify-icon>
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-8 text-white"></iconify-icon>
                                 </a>
                             </div>
                         </div>
