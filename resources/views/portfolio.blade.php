@@ -31,8 +31,8 @@
     <section class="project py-5 py-lg-11 py-xl-12">
         <div class="container">
             <div class="text-center mb-8" data-aos="fade-up" data-aos-delay="50" data-aos-duration="800">
-                <p class="text-primary fw-semibold mb-2" style="
-                    background-color: black;
+                <p class="text-white fw-semibold mb-2" style="
+                    background-color: #008CFF;
                     color: white;
                     display: inline-block;
                     padding: 2px 6px;
