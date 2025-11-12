@@ -122,6 +122,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col-md-4 col-xl-2 mb-8 mb-xl-0">
                     <ul class="footer-menu list-unstyled mb-0 d-flex flex-column gap-2">
                         <li><a class="link-hover fs-5 text-black" href="/">Home</a></li>
@@ -130,6 +131,7 @@
                         <li><a class="link-hover fs-5 text-black" href="/contact">Contact</a></li>
                     </ul>
                 </div>
+
                 <div class="col-md-4 col-xl-2 mb-8 mb-xl-0">
                     <ul class="footer-menu list-unstyled mb-0 d-flex flex-column gap-2">
                         <li><a class="link-hover fs-5 text-black" href="#!">Facebook</a></li>
@@ -137,12 +139,27 @@
                         <li><a class="link-hover fs-5 text-black" href="#!">Twitter</a></li>
                     </ul>
                 </div>
-                <div class="col-md-4 col-xl-3 mb-8 mb-xl-0">
+
+                <!-- Bagian © di kanan (desktop), tapi sembunyi di mobile -->
+                <div class="col-md-4 col-xl-3 mb-8 mb-xl-0 d-none d-md-block">
                     <p class="mb-0 text-black text-opacity-70 text-md-end">© Gadgetnio copyright 2025</p>
                 </div>
             </div>
         </div>
-        <p class="mb-0 text-black text-opacity-70 text-md-center mt-10">Created by <a class="text-black" href="https://www.gadgetnio.com" target="_blank">Gadgetnio Team</a></p>
+
+        <!-- Bagian bawah: muncul di semua tampilan -->
+        <div class="text-center mt-10">
+            <!-- Teks created by -->
+            <p class="mb-1 text-black text-opacity-70">
+                Created by
+                <a class="text-black" href="https://www.gadgetnio.com" target="_blank">Gadgetnio Team</a>
+            </p>
+
+            <!-- Teks © hanya tampil di mobile -->
+            <p class="mb-0 text-black text-opacity-70 d-block d-md-none">
+                © Gadgetnio copyright 2025
+            </p>
+        </div>
     </footer>
 
     <div class="get-template hstack gap-2">
