@@ -88,64 +88,64 @@
                     <div class="marquee w-100 d-flex align-items-center overflow-hidden">
                         <div class="marquee-content d-flex align-items-center gap-8">
                             <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/partners-1.svg" alt="partners" class="img-fluid">
+                                <img src="../assets/images/pricing/running-ugreen.svg" alt="partners" class="img-fluid">
                             </div>
                             <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/partners-2.svg" alt="partners" class="img-fluid">
+                                <img src="../assets/images/pricing/running-vention.svg" alt="partners" class="img-fluid">
                             </div>
                             <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/partners-3.svg" alt="partners" class="img-fluid">
+                                <img src="../assets/images/pricing/running-ugreen.svg" alt="partners" class="img-fluid">
                             </div>
                             <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/partners-4.svg" alt="partners" class="img-fluid">
+                                <img src="../assets/images/pricing/running-vention.svg" alt="partners" class="img-fluid">
                             </div>
                             <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/partners-5.svg" alt="partners" class="img-fluid">
+                                <img src="../assets/images/pricing/running-ugreen.svg" alt="partners" class="img-fluid">
                             </div>
                             <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/partners-1.svg" alt="partners" class="img-fluid">
+                                <img src="../assets/images/pricing/running-vention.svg" alt="partners" class="img-fluid">
                             </div>
                             <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/partners-2.svg" alt="partners" class="img-fluid">
+                                <img src="../assets/images/pricing/running-ugreen.svg" alt="partners" class="img-fluid">
                             </div>
                             <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/partners-3.svg" alt="partners" class="img-fluid">
+                                <img src="../assets/images/pricing/running-vention.svg" alt="partners" class="img-fluid">
                             </div>
                             <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/partners-4.svg" alt="partners" class="img-fluid">
+                                <img src="../assets/images/pricing/running-ugreen.svg" alt="partners" class="img-fluid">
                             </div>
                             <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/partners-5.svg" alt="partners" class="img-fluid">
+                                <img src="../assets/images/pricing/running-vention.svg" alt="partners" class="img-fluid">
                             </div>
                             <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/partners-1.svg" alt="partners" class="img-fluid">
+                                <img src="../assets/images/pricing/running-ugreen.svg" alt="partners" class="img-fluid">
                             </div>
                             <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/partners-2.svg" alt="partners" class="img-fluid">
+                                <img src="../assets/images/pricing/running-vention.svg" alt="partners" class="img-fluid">
                             </div>
                             <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/partners-3.svg" alt="partners" class="img-fluid">
+                                <img src="../assets/images/pricing/running-ugreen.svg" alt="partners" class="img-fluid">
                             </div>
                             <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/partners-4.svg" alt="partners" class="img-fluid">
+                                <img src="../assets/images/pricing/running-vention.svg" alt="partners" class="img-fluid">
                             </div>
                             <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/partners-5.svg" alt="partners" class="img-fluid">
+                                <img src="../assets/images/pricing/running-ugreen.svg" alt="partners" class="img-fluid">
                             </div>
                             <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/partners-1.svg" alt="partners" class="img-fluid">
+                                <img src="../assets/images/pricing/running-vention.svg" alt="partners" class="img-fluid">
                             </div>
                             <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/partners-2.svg" alt="partners" class="img-fluid">
+                                <img src="../assets/images/pricing/running-ugreen.svg" alt="partners" class="img-fluid">
                             </div>
                             <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/partners-3.svg" alt="partners" class="img-fluid">
+                                <img src="../assets/images/pricing/running-vention.svg" alt="partners" class="img-fluid">
                             </div>
                             <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/partners-4.svg" alt="partners" class="img-fluid">
+                                <img src="../assets/images/pricing/running-ugreen.svg" alt="partners" class="img-fluid">
                             </div>
                             <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/partners-5.svg" alt="partners" class="img-fluid">
+                                <img src="../assets/images/pricing/running-vention.svg" alt="partners" class="img-fluid">
                             </div>
                         </div>
                     </div>
