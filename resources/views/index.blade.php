@@ -339,7 +339,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="services-tab">
+                <!-- <div class="services-tab">
                     <div class="row gap-5 gap-xl-0">
                         <div class="col-xl-4">
                             <div class="tab-content" data-aos="zoom-in" data-aos-delay="100" data-aos-duration="1000">
@@ -372,10 +372,9 @@
                                             </div>
                                             <div class="col-lg-6 col-xxl-7">
                                                 <p class="text-black text-opacity-70 mb-0">
-                                                    When selecting a web design agency, it's essential to consider its reputation, experience,
-                                                    and
-                                                    the
-                                                    specific needs of your project.
+                                                    We connect leading technology brands with the market through a reliable, 
+                                                    scalable, and data-driven distribution network — ensuring every innovation 
+                                                    reaches the right hands.
                                                 </p>
                                             </div>
                                         </div>
@@ -391,10 +390,8 @@
                                             </div>
                                             <div class="col-lg-6 col-xxl-7">
                                                 <p class="text-black text-opacity-70 mb-0">
-                                                    When selecting a web design agency, it's essential to consider its reputation, experience,
-                                                    and
-                                                    the
-                                                    specific needs of your project.
+                                                    From retail chains to independent resellers, we build strong partnerships 
+                                                    that empower business growth and enhance market reach with flexible and profitable collaboration models.
                                                 </p>
                                             </div>
                                         </div>
@@ -410,10 +407,8 @@
                                             </div>
                                             <div class="col-lg-6 col-xxl-7">
                                                 <p class="text-black text-opacity-70 mb-0">
-                                                    When selecting a web design agency, it's essential to consider its reputation, experience,
-                                                    and
-                                                    the
-                                                    specific needs of your project.
+                                                    With streamlined logistics and responsive after-sales service, we guarantee on-time delivery, 
+                                                    product integrity, and customer satisfaction across every touchpoint.
                                                 </p>
                                             </div>
                                         </div>
@@ -429,10 +424,8 @@
                                             </div>
                                             <div class="col-lg-6 col-xxl-7">
                                                 <p class="text-black text-opacity-70 mb-0">
-                                                    When selecting a web design agency, it's essential to consider its reputation, experience,
-                                                    and
-                                                    the
-                                                    specific needs of your project.
+                                                    We provide tailored procurement services for corporations — delivering high-quality gadgets, 
+                                                    competitive pricing, and seamless processes to meet your organizational needs.
                                                 </p>
                                             </div>
                                         </div>
@@ -444,6 +437,96 @@
                                     <iconify-icon icon="lucide:arrow-up-right"
                                         class="btn-icon bg-white text-dark round-52 rounded-circle hstack justify-content-center fs-7 shadow-sm"></iconify-icon>
                                 </a>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+                <div class="services-tab">
+                    <div class="row justify-content-center">
+                        <div class="col-xl-8">
+                            <div class="d-flex flex-column gap-5">
+                                <ul class="nav nav-tabs" id="myTab" role="tablist" data-aos="fade-up" data-aos-delay="200"
+                                    data-aos-duration="1000">
+                                    <li
+                                        class="nav-item py-4 py-lg-8 border-top border-white border-opacity-10 d-flex align-items-center w-100"
+                                        role="presentation">
+                                        <div class="row w-100 align-items-center gx-3">
+                                            <div class="col-lg-6 col-xxl-5">
+                                                <button class="nav-link fs-10 fw-bold py-1 px-0 border-0 rounded-0 flex-shrink-0 active text-black"
+                                                    id="one-tab" data-bs-toggle="tab" data-bs-target="#one" type="button" role="tab"
+                                                    aria-controls="one" aria-selected="true">Gadget & Electronics Distribution</button>
+                                            </div>
+                                            <div class="col-lg-6 col-xxl-7">
+                                                <p class="text-black text-opacity-70 mb-0">
+                                                    We connect leading technology brands with the market through a reliable,
+                                                    scalable, and data-driven distribution network — ensuring every innovation
+                                                    reaches the right hands.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li
+                                        class="nav-item py-4 py-lg-8 border-top border-white border-opacity-10 d-flex align-items-center w-100"
+                                        role="presentation">
+                                        <div class="row w-100 align-items-center gx-3">
+                                            <div class="col-lg-6 col-xxl-5">
+                                                <button class="nav-link fs-10 fw-bold py-1 px-0 border-0 rounded-0 flex-shrink-0 text-black"
+                                                    id="two-tab" data-bs-toggle="tab" data-bs-target="#two" type="button" role="tab"
+                                                    aria-controls="two" aria-selected="false">Retail & Wholesale Partnerships</button>
+                                            </div>
+                                            <div class="col-lg-6 col-xxl-7">
+                                                <p class="text-black text-opacity-70 mb-0">
+                                                    From retail chains to independent resellers, we build strong partnerships
+                                                    that empower business growth and enhance market reach with flexible and profitable collaboration models.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li
+                                        class="nav-item py-4 py-lg-8 border-top border-white border-opacity-10 d-flex align-items-center w-100"
+                                        role="presentation">
+                                        <div class="row w-100 align-items-center gx-3">
+                                            <div class="col-lg-6 col-xxl-5">
+                                                <button class="nav-link fs-10 fw-bold py-1 px-0 border-0 rounded-0 flex-shrink-0 text-black"
+                                                    id="three-tab" data-bs-toggle="tab" data-bs-target="#three" type="button" role="tab"
+                                                    aria-controls="three" aria-selected="false">Efficient Logistics & After-Sales Support</button>
+                                            </div>
+                                            <div class="col-lg-6 col-xxl-7">
+                                                <p class="text-black text-opacity-70 mb-0">
+                                                    With streamlined logistics and responsive after-sales service, we guarantee on-time delivery,
+                                                    product integrity, and customer satisfaction across every touchpoint.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li
+                                        class="nav-item py-4 py-lg-8 border-top border-white border-opacity-10 d-flex align-items-center w-100"
+                                        role="presentation">
+                                        <div class="row w-100 align-items-center gx-3">
+                                            <div class="col-lg-6 col-xxl-5">
+                                                <button class="nav-link fs-10 fw-bold py-1 px-0 border-0 rounded-0 flex-shrink-0 text-black"
+                                                    id="four-tab" data-bs-toggle="tab" data-bs-target="#four" type="button" role="tab"
+                                                    aria-controls="four" aria-selected="false">Corporate Procurement Solutions</button>
+                                            </div>
+                                            <div class="col-lg-6 col-xxl-7">
+                                                <p class="text-black text-opacity-70 mb-0">
+                                                    We provide tailored procurement services for corporations — delivering high-quality gadgets,
+                                                    competitive pricing, and seamless processes to meet your organizational needs.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+
+                                <!-- Tombol di tengah -->
+                                <div class="d-flex justify-content-center">
+                                    <a href="/portfolio" class="btn border border-white border-opacity-25" data-aos="fade-up"
+                                        data-aos-delay="300" data-aos-duration="1000">
+                                        <span class="btn-text text-white">See Our Partners</span>
+                                        <iconify-icon icon="lucide:arrow-up-right"
+                                            class="btn-icon bg-white text-dark round-52 rounded-circle hstack justify-content-center fs-7 shadow-sm"></iconify-icon>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -479,30 +562,30 @@
                                     <div class="d-flex flex-column gap-3 position-relative z-1">
                                         <ul class="list-unstyled mb-0 hstack gap-1">
                                             <li><a class="hstack" href="javascript:void(0)"><iconify-icon icon="solar:star-bold"
-                                                        class="fs-6 text-dark"></iconify-icon></a></li>
+                                                        class="fs-6 text-white"></iconify-icon></a></li>
                                             <li><a class="hstack" href="javascript:void(0)"><iconify-icon icon="solar:star-bold"
-                                                        class="fs-6 text-dark"></iconify-icon></a></li>
+                                                        class="fs-6 text-white"></iconify-icon></a></li>
                                             <li><a class="hstack" href="javascript:void(0)"><iconify-icon icon="solar:star-bold"
-                                                        class="fs-6 text-dark"></iconify-icon></a></li>
+                                                        class="fs-6 text-white"></iconify-icon></a></li>
                                             <li><a class="hstack" href="javascript:void(0)"><iconify-icon icon="solar:star-bold"
-                                                        class="fs-6 text-dark"></iconify-icon></a></li>
+                                                        class="fs-6 text-white"></iconify-icon></a></li>
                                             <li><a class="hstack" href="javascript:void(0)"><iconify-icon icon="solar:star-line-duotone"
-                                                        class="fs-6 text-dark"></iconify-icon></a></li>
+                                                        class="fs-6 text-white"></iconify-icon></a></li>
                                         </ul>
-                                        <p class="mb-0 fs-6 text-dark">Responsive, dedicated, and customer-focused.
+                                        <p class="mb-0 fs-6 text-white">Responsive, dedicated, and customer-focused.
                                         </p>
                                     </div>
                                     <div class="position-relative z-1">
                                         <div class="pb-6 border-bottom">
-                                            <h2 class="mb-0">98.6%</h2>
-                                            <p class="mb-0">Customer satisfaction</p>
+                                            <h2 class="mb-0 text-white">98.6%</h2>
+                                            <p class="mb-0 text-white">Customer satisfaction</p>
                                         </div>
                                         <div class="hstack gap-6 pt-6">
                                             <img src="../assets/images/profile/avatar-1.png" alt=""
                                                 class="img-fluid rounded-circle overflow-hidden flex-shrink-0" width="64" height="64">
                                             <div>
-                                                <h5 class="mb-0">Wade Warren</h5>
-                                                <p class="mb-0">Gadgetnio Customer</p>
+                                                <h5 class="mb-0 text-white">Wade Warren</h5>
+                                                <p class="mb-0 text-white">Gadgetnio Customer</p>
                                             </div>
                                         </div>
                                     </div>
@@ -522,7 +605,7 @@
                                     <div class="card-body d-flex flex-column gap-7">
                                         <div>
                                             <h2 class="mb-0 text-white">500+</h2>
-                                            <p class="mb-0 text-white text-opacity-70">Business Partners</p>
+                                            <p class="mb-0 text-white text-opacity-80">Business Partners</p>
                                         </div>
                                         <ul class="d-flex align-items-center mb-0">
                                             <li>
@@ -561,12 +644,12 @@
                                     class="border rounded-circle round-490 d-block position-absolute top-0 start-50 translate-middle"></span>
                                 <div class="card-body d-flex flex-column justify-content-between">
                                     <div>
-                                        <h2 class="mb-0">238+</h2>
+                                        <h2 class="mb-0 text-dark">238+</h2>
                                         <p class="mb-0 text-dark">Brands served worldwide</p>
                                     </div>
                                     <div class="d-flex flex-column gap-3">
                                         <a href="/" class="logo-dark text-decoration-none fw-bold text-dark" style="font-size: 2.2rem;">
-                                            Gadgetnio.
+                                            Gadgetnio Group.
                                         </a>
                                         <p class="mb-0 fs-5 text-dark">We value long-term collaboration built on trust and performance.</p>
                                     </div>
@@ -610,18 +693,18 @@
                 </div>
                 <div class="row gap-7 gap-lg-0">
                     <div class="col-lg-4 col-xl-3 d-flex align-items-stretch">
-                        <div class="card bg-primary w-100" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+                        <div class="card w-100" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
                             <div class="card-body d-flex flex-column gap-5 gap-xl-11 justify-content-between">
                                 <div class="d-flex flex-column gap-4">
-                                    <p class="mb-0">Hear from them</p>
-                                    <h4 class="mb-0">Support team is responsive and helpful, it feels like we’re working with a true partner!</h4>
+                                    <p class="mb-0 text-black">Hear from them</p>
+                                    <h4 class="mb-0 text-black">Support team is responsive and helpful, it feels like we’re working with a true partner!</h4>
                                 </div>
                                 <div class="hstack gap-3">
                                     <img src="../assets/images/testimonial/testimonial-1.jpg" alt=""
                                         class="img-fluid rounded-circle overflow-hidden flex-shrink-0" width="60" height="60">
                                     <div>
-                                        <h5 class="mb-1 fw-normal">Albert Flores</h5>
-                                        <p class="mb-0">Affiliate</p>
+                                        <h5 class="mb-1 text-black fw-normal">Albert Flores</h5>
+                                        <p class="mb-0 text-black">Affiliate</p>
                                     </div>
                                 </div>
                             </div>
@@ -727,7 +810,7 @@
                                 </h2>
                                 <div id="flush-collapseOne" class="accordion-collapse collapse"
                                     data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body pt-0 fs-5 text-dark">We primarily serve as a distributor for retailers
+                                    <div class="accordion-body pt-0 fs-5 text-black">We primarily serve as a distributor for retailers
                                         and corporations. However, selected consumer purchases may be available through our partners.</div>
                                 </div>
                             </div>
@@ -740,7 +823,7 @@
                                 </h2>
                                 <div id="flush-collapseTwo" class="accordion-collapse collapse"
                                     data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body pt-0 fs-5 text-dark">Simply contact us through our website form or email.
+                                    <div class="accordion-body pt-0 fs-5 text-black">Simply contact us through our website form or email.
                                         Our partnership team will guide you through the onboarding process.</div>
                                 </div>
                             </div>
@@ -753,7 +836,7 @@
                                 </h2>
                                 <div id="flush-collapseThree" class="accordion-collapse collapse"
                                     data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body pt-0 fs-5 text-dark">We serve partners and customer across all major cities in Indonesia. We’re open for partnerships with global brands.</div>
+                                    <div class="accordion-body pt-0 fs-5 text-black">We serve partners and customer across all major cities in Indonesia. We’re open for partnerships with global brands.</div>
                                 </div>
                             </div>
                             <div class="accordion-item">
@@ -765,7 +848,7 @@
                                 </h2>
                                 <div id="flush-collapseFour" class="accordion-collapse collapse"
                                     data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body pt-0 fs-5 text-dark">We distribute a wide range of electronics and gadgets
+                                    <div class="accordion-body pt-0 fs-5 text-black">We distribute a wide range of electronics and gadgets
                                         — including Phone Accessories and Smart Devices from leading global brand.</div>
                                 </div>
                             </div>
@@ -778,7 +861,7 @@
                                 </h2>
                                 <div id="flush-collapseFive" class="accordion-collapse collapse"
                                     data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body pt-0 fs-5 text-dark">Yes. We provide an affiliate partnership program that allows
+                                    <div class="accordion-body pt-0 fs-5 text-black">Yes. We provide an affiliate partnership program that allows
                                         individuals and businesses to earn commissions by promoting and referring our products.
                                         Contact our team to learn more about the registration process and commission structure.</div>
                                 </div>
