@@ -1,6 +1,44 @@
 @extends('layouts.app')
 @section('content')
 
+@php
+use Illuminate\Support\Facades\File;
+$images = File::files(public_path('assets/images/pricing'));
+@endphp
+
+<style>
+    .marquee {
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+        mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
+        -webkit-mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
+    }
+
+    .marquee-content {
+        display: flex;
+        align-items: center;
+        gap: 4rem;
+        /* jarak antar logo */
+        animation: scroll-marquee 25s linear infinite;
+    }
+
+    @keyframes scroll-marquee {
+        0% {
+            transform: translateX(0);
+        }
+
+        100% {
+            transform: translateX(-50%);
+        }
+    }
+
+    .marquee-tag img {
+        max-height: 60px;
+        /* sesuaikan tinggi logo */
+        object-fit: contain;
+    }
+</style>
 <!--  Page Wrapper -->
 <div class="page-wrapper overflow-hidden">
 
@@ -87,66 +125,19 @@
                 <div class="d-flex flex-column gap-8 mt-3" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
                     <div class="marquee w-100 d-flex align-items-center overflow-hidden">
                         <div class="marquee-content d-flex align-items-center gap-8">
+                            {{-- Loop pertama --}}
+                            @foreach ($images as $image)
                             <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/running-ugreen.svg" alt="partners" class="img-fluid">
+                                <img src="{{ asset('assets/images/pricing/' . $image->getFilename()) }}" alt="pricing image" class="img-fluid">
                             </div>
+                            @endforeach
+
+                            {{-- Loop kedua (duplikasi agar mulus saat transisi) --}}
+                            @foreach ($images as $image)
                             <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/running-vention.svg" alt="partners" class="img-fluid">
+                                <img src="{{ asset('assets/images/pricing/' . $image->getFilename()) }}" alt="pricing image" class="img-fluid">
                             </div>
-                            <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/running-ugreen.svg" alt="partners" class="img-fluid">
-                            </div>
-                            <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/running-vention.svg" alt="partners" class="img-fluid">
-                            </div>
-                            <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/running-lenovo.svg" alt="partners" class="img-fluid">
-                            </div>
-                            <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/running-vention.svg" alt="partners" class="img-fluid">
-                            </div>
-                            <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/running-ugreen.svg" alt="partners" class="img-fluid">
-                            </div>
-                            <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/running-lenovo.svg" alt="partners" class="img-fluid">
-                            </div>
-                            <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/running-ugreen.svg" alt="partners" class="img-fluid">
-                            </div>
-                            <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/running-vention.svg" alt="partners" class="img-fluid">
-                            </div>
-                            <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/running-lenovo.svg" alt="partners" class="img-fluid">
-                            </div>
-                            <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/running-vention.svg" alt="partners" class="img-fluid">
-                            </div>
-                            <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/running-ugreen.svg" alt="partners" class="img-fluid">
-                            </div>
-                            <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/running-vention.svg" alt="partners" class="img-fluid">
-                            </div>
-                            <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/running-ugreen.svg" alt="partners" class="img-fluid">
-                            </div>
-                            <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/running-vention.svg" alt="partners" class="img-fluid">
-                            </div>
-                            <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/running-ugreen.svg" alt="partners" class="img-fluid">
-                            </div>
-                            <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/running-vention.svg" alt="partners" class="img-fluid">
-                            </div>
-                            <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/running-ugreen.svg" alt="partners" class="img-fluid">
-                            </div>
-                            <div class="marquee-tag hstack justify-content-center">
-                                <img src="../assets/images/pricing/running-vention.svg" alt="partners" class="img-fluid">
-                            </div>
+                            @endforeach
                         </div>
                     </div>
                 </div>
