@@ -57,6 +57,51 @@
         transform: translate(-50%, -50%) translateY(0);
     }
 </style>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const items = document.querySelectorAll("#portfolioRow .col-lg-4");
+        const loadMoreBtn = document.getElementById("loadMore");
+        const itemsPerClick = 6;
+        let visibleCount = itemsPerClick;
+
+        // Sembunyikan item selain yang pertama
+        items.forEach((item, index) => {
+            if (index >= visibleCount) item.style.display = "none";
+        });
+
+        loadMoreBtn.addEventListener("click", function() {
+            const hiddenItems = Array.from(items).slice(visibleCount, visibleCount + itemsPerClick);
+
+            hiddenItems.forEach((item) => {
+                item.style.display = "block";
+                item.style.animation = "fadeIn 0.4s ease"; // animasi ringan
+            });
+
+            visibleCount += itemsPerClick;
+
+            // Jika semua item sudah tampil, sembunyikan tombol
+            if (visibleCount >= items.length) {
+                loadMoreBtn.style.display = "none";
+            }
+        });
+    });
+</script>
+
+<style>
+    /* Animasi muncul halus */
+    @keyframes fadeIn {
+        from {
+            opacity: 0;
+            transform: translateY(20px);
+        }
+
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+</style>
+
 <!--  Page Wrapper -->
 <div class="page-wrapper overflow-hidden">
 
@@ -98,7 +143,7 @@
                 </p>
                 <h2 class="fw-bold mb-0">Trusted by Leading Brands</h2>
             </div>
-            <div class="row">
+            <div class="row" id="portfolioRow">
                 <div class="col-lg-4 mb-7">
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
@@ -651,6 +696,11 @@
                         </div>
                     </div>
                 </div>
+            </div>
+            <div class="text-center mt-4">
+                <button id="loadMore" class="btn btn-primary px-4 py-2 rounded-3 text-white">
+                    Load More
+                </button>
             </div>
         </div>
     </section>
