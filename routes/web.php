@@ -29,4 +29,8 @@ Route::prefix('partner')->group(function () {
     Route::get('/vention', function () {
         return view('partner.vention');
     })->name('partner.vention');
+
+        Route::get('/aqua', function () {
+        return view('partner.aqua');
+    })->name('partner.aqua');
 });
