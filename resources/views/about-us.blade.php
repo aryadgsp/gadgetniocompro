@@ -6,7 +6,7 @@
 
     <!--  Banner Section -->
     <section class="banner-section banner-inner-section position-relative overflow-hidden d-flex align-items-end"
-        style="background-image: url(../assets/images/backgrounds/aboutus-banner.jpg);">
+        style="background-image: url(../assets/images/backgrounds/about-us-banner.jpg);">
         <div class="container">
             <div class="d-flex flex-column gap-4 pb-5 pb-xl-10 position-relative z-1">
                 <div class="row align-items-center">
@@ -87,7 +87,7 @@
 
     <!--  About Img Section -->
     <section class="about-img">
-        <img src="../assets/images/about/about-img.jpg" alt="" class="w-100 object-fit-cover">
+        <img src="../assets/images/about/about.jpg" alt="" class="w-100 object-fit-cover">
         <div class="marquee w-100 d-flex align-items-center overflow-hidden bg-primary py-4">
             <div class="marquee-content d-flex align-items-center gap-8">
                 <div class="hstack gap-4 flex-shrink-0">
