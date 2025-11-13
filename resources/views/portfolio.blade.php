@@ -171,14 +171,14 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
-                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/lenovo.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
-                                <a href="/partner/ugreen"
+                                <a href="/partner/lenovo"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
                                     <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
@@ -186,7 +186,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">UGREEN</h3>
+                            <h3 class="mb-0">LENOVO</h3>
                         </div>
                     </div>
                 </div>
@@ -194,14 +194,14 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
-                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/vention.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
-                                <a href="/partner/ugreen"
+                                <a href="/partner/vention"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
                                     <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
@@ -209,7 +209,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">UGREEN</h3>
+                            <h3 class="mb-0">VENTION</h3>
                         </div>
                     </div>
                 </div>
@@ -217,14 +217,14 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
-                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/aqua.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
-                                <a href="/partner/ugreen"
+                                <a href="/partner/aqua"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
                                     <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
@@ -232,7 +232,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">UGREEN</h3>
+                            <h3 class="mb-0">AQUA</h3>
                         </div>
                     </div>
                 </div>
@@ -240,14 +240,14 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
-                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/baseus.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
-                                <a href="/partner/ugreen"
+                                <a href="/partner/baseus"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
                                     <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
@@ -255,7 +255,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">UGREEN</h3>
+                            <h3 class="mb-0">BASEUS</h3>
                         </div>
                     </div>
                 </div>
@@ -263,14 +263,14 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
-                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/bodimax.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
-                                <a href="/partner/ugreen"
+                                <a href="/partner/bodimax"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
                                     <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
@@ -278,7 +278,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">UGREEN</h3>
+                            <h3 class="mb-0">BODIMAX</h3>
                         </div>
                     </div>
                 </div>
@@ -286,14 +286,14 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
-                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/deerma.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
-                                <a href="/partner/ugreen"
+                                <a href="/partner/deerma"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
                                     <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
@@ -301,7 +301,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">UGREEN</h3>
+                            <h3 class="mb-0">DEERMA</h3>
                         </div>
                     </div>
                 </div>
@@ -309,14 +309,14 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
-                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/kiip.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
-                                <a href="/partner/ugreen"
+                                <a href="/partner/kiip"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
                                     <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
@@ -324,7 +324,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">UGREEN</h3>
+                            <h3 class="mb-0">KIIP</h3>
                         </div>
                     </div>
                 </div>
@@ -332,14 +332,14 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
-                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/ksmith.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
-                                <a href="/partner/ugreen"
+                                <a href="/partner/ksmith"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
                                     <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
@@ -347,7 +347,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">UGREEN</h3>
+                            <h3 class="mb-0">KING SMITH</h3>
                         </div>
                     </div>
                 </div>
@@ -355,14 +355,14 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
-                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/lenyes.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
-                                <a href="/partner/ugreen"
+                                <a href="/partner/lenyes"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
                                     <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
@@ -370,7 +370,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">UGREEN</h3>
+                            <h3 class="mb-0">LENYES</h3>
                         </div>
                     </div>
                 </div>
@@ -378,14 +378,14 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
-                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/levoit.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
-                                <a href="/partner/ugreen"
+                                <a href="/partner/levoit"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
                                     <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
@@ -393,7 +393,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">UGREEN</h3>
+                            <h3 class="mb-0">LEVOIT</h3>
                         </div>
                     </div>
                 </div>
@@ -401,14 +401,14 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
-                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/mcdodo.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
-                                <a href="/partner/ugreen"
+                                <a href="/partner/mcdodo"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
                                     <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
@@ -416,7 +416,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">UGREEN</h3>
+                            <h3 class="mb-0">MCDODO</h3>
                         </div>
                     </div>
                 </div>
@@ -424,14 +424,14 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
-                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/memo.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
-                                <a href="/partner/ugreen"
+                                <a href="/partner/memo"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
                                     <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
@@ -439,7 +439,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">UGREEN</h3>
+                            <h3 class="mb-0">MEMO</h3>
                         </div>
                     </div>
                 </div>
@@ -447,14 +447,14 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
-                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/notale.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
-                                <a href="/partner/ugreen"
+                                <a href="/partner/notale"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
                                     <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
@@ -462,7 +462,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">UGREEN</h3>
+                            <h3 class="mb-0">NOTALE</h3>
                         </div>
                     </div>
                 </div>
@@ -470,14 +470,14 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
-                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/philips.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
-                                <a href="/partner/ugreen"
+                                <a href="/partner/philips"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
                                     <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
@@ -485,7 +485,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">UGREEN</h3>
+                            <h3 class="mb-0">PHILIPS</h3>
                         </div>
                     </div>
                 </div>
@@ -493,14 +493,14 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
-                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/rabit.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
-                                <a href="/partner/ugreen"
+                                <a href="/partner/rabit"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
                                     <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
@@ -508,7 +508,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">UGREEN</h3>
+                            <h3 class="mb-0">RABIT</h3>
                         </div>
                     </div>
                 </div>
@@ -516,14 +516,14 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
-                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/rapa.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
-                                <a href="/partner/ugreen"
+                                <a href="/partner/rapa"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
                                     <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
@@ -531,7 +531,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">UGREEN</h3>
+                            <h3 class="mb-0">RAPA TECH</h3>
                         </div>
                     </div>
                 </div>
@@ -539,14 +539,14 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
-                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/rtaylors.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
-                                <a href="/partner/ugreen"
+                                <a href="/partner/rtaylors"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
                                     <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
@@ -554,7 +554,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">UGREEN</h3>
+                            <h3 class="mb-0">RUSSEL TAYLORS</h3>
                         </div>
                     </div>
                 </div>
@@ -562,14 +562,14 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
-                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/taffware.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
-                                <a href="/partner/ugreen"
+                                <a href="/partner/taffware"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
                                     <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
@@ -577,7 +577,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">UGREEN</h3>
+                            <h3 class="mb-0">TAFFWARE</h3>
                         </div>
                     </div>
                 </div>
@@ -585,14 +585,14 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
-                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/thinkplus.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
-                                <a href="/partner/ugreen"
+                                <a href="/partner/thinkplus"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
                                     <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
@@ -600,7 +600,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">UGREEN</h3>
+                            <h3 class="mb-0">THINKPLUS</h3>
                         </div>
                     </div>
                 </div>
@@ -608,14 +608,14 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
-                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/uwant.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
-                                <a href="/partner/ugreen"
+                                <a href="/partner/uwant"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
                                     <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
@@ -623,7 +623,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">UGREEN</h3>
+                            <h3 class="mb-0">UWANT</h3>
                         </div>
                     </div>
                 </div>
@@ -631,14 +631,14 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
-                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/wanbo.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
-                                <a href="/partner/ugreen"
+                                <a href="/partner/wanbo"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
                                     <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
@@ -646,7 +646,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">UGREEN</h3>
+                            <h3 class="mb-0">WANBO</h3>
                         </div>
                     </div>
                 </div>
@@ -654,14 +654,14 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
-                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/welby.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
-                                <a href="/partner/ugreen"
+                                <a href="/partner/welby"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
                                     <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
@@ -669,7 +669,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">UGREEN</h3>
+                            <h3 class="mb-0">WELBY</h3>
                         </div>
                     </div>
                 </div>
@@ -677,14 +677,14 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
-                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+                            <img src="../assets/images/portfolio/yesoul.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
-                                <a href="/partner/ugreen"
+                                <a href="/partner/yesoul"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
                                     <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
@@ -692,7 +692,7 @@
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">UGREEN</h3>
+                            <h3 class="mb-0">YESOUL</h3>
                         </div>
                     </div>
                 </div>
