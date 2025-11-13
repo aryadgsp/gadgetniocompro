@@ -572,10 +572,10 @@ $images = File::files(public_path('assets/images/pricing'));
                                             <p class="mb-0 text-white">Customer satisfaction</p>
                                         </div>
                                         <div class="hstack gap-6 pt-6">
-                                            <img src="../assets/images/profile/avatar-1.png" alt=""
+                                            <img src="../assets/images/profile/home-avatar-1.png" alt=""
                                                 class="img-fluid rounded-circle overflow-hidden flex-shrink-0" width="64" height="64">
                                             <div>
-                                                <h5 class="mb-0 text-white">Wade Warren</h5>
+                                                <h5 class="mb-0 text-white">Michael Sugianto</h5>
                                                 <p class="mb-0 text-white">Gadgetnio Customer</p>
                                             </div>
                                         </div>
@@ -589,7 +589,7 @@ $images = File::files(public_path('assets/images/pricing'));
                         <div class="col-lg-4 mb-7 mb-lg-0">
                             <div class="d-flex flex-column gap-7" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
                                 <div class="position-relative">
-                                    <img src="../assets/images/services/services-img-2.jpg" alt="" class="img-fluid w-100">
+                                    <img src="../assets/images/services/home-about-gadgetnio.jpg" alt="" class="img-fluid w-100">
                                 </div>
 
                                 <div class="card bg-dark">
@@ -691,10 +691,10 @@ $images = File::files(public_path('assets/images/pricing'));
                                     <h4 class="mb-0 text-black">Support team is responsive and helpful, it feels like we’re working with a true partner!</h4>
                                 </div>
                                 <div class="hstack gap-3">
-                                    <img src="../assets/images/testimonial/testimonial-1.jpg" alt=""
+                                    <img src="../assets/images/testimonial/testimonial-1.png" alt=""
                                         class="img-fluid rounded-circle overflow-hidden flex-shrink-0" width="60" height="60">
                                     <div>
-                                        <h5 class="mb-1 text-black fw-normal">Albert Flores</h5>
+                                        <h5 class="mb-1 text-black fw-normal">Agung Rahmat</h5>
                                         <p class="mb-0 text-black">Affiliate</p>
                                     </div>
                                 </div>
@@ -706,7 +706,8 @@ $images = File::files(public_path('assets/images/pricing'));
                             <div class="card-body d-flex flex-column gap-5 gap-xl-11 justify-content-between">
                                 <div class="d-flex flex-column gap-4">
                                     <p class="mb-0 text-white text-opacity-70">Hear from them</p>
-                                    <h4 class="mb-0 text-white pe-xl-2">Gadgetnio Group has been an incredible distribution partner. Their reliability and professionalism make our business smoother than ever!</h4>
+                                    <h4 class="mb-0 text-white pe-xl-2">Gadgetnio Group has been an incredible distribution 
+                                        partner. Their reliability and professionalism make our business smoother than ever!</h4>
                                     <!-- <div class="hstack gap-2">
                                         <ul class="list-unstyled mb-0 hstack gap-1">
                                             <li><a class="hstack" href="javascript:void(0)"><iconify-icon icon="solar:star-bold"
@@ -725,11 +726,11 @@ $images = File::files(public_path('assets/images/pricing'));
                                 </div>
                                 <div class="d-flex align-items-center justify-content-between">
                                     <div class="hstack gap-3">
-                                        <img src="../assets/images/testimonial/testimonial-2.jpg" alt=""
+                                        <img src="../assets/images/testimonial/testimonial-2.png" alt=""
                                             class="img-fluid rounded-circle overflow-hidden flex-shrink-0" width="60" height="60">
                                         <div>
-                                            <h5 class="mb-1 fw-normal text-white">Robert Fox</h5>
-                                            <p class="mb-0 text-white text-opacity-70">TechMart Indonesia</p>
+                                            <h5 class="mb-1 fw-normal text-white">Rafael Candra</h5>
+                                            <p class="mb-0 text-white text-opacity-70">Supplier</p>
                                         </div>
                                     </div>
                                     <span><img src="../assets/images/testimonial/quete.svg" alt="quete"
@@ -743,14 +744,14 @@ $images = File::files(public_path('assets/images/pricing'));
                             <div class="card-body d-flex flex-column gap-5 gap-xl-11 justify-content-between">
                                 <div class="d-flex flex-column gap-4">
                                     <p class="mb-0">Hear from them</p>
-                                    <h4 class="mb-0">Partnering with Gadgetnio Group helped us expand faster across multiple regions!</h4>
+                                    <h4 class="mb-0">Gadgetnio helps us to fulfill our digital gadget and accessories needs!</h4>
                                 </div>
                                 <div class="hstack gap-3">
-                                    <img src="../assets/images/testimonial/testimonial-3.jpg" alt=""
+                                    <img src="../assets/images/testimonial/testimonial-3.png" alt=""
                                         class="img-fluid rounded-circle overflow-hidden flex-shrink-0" width="60" height="60">
                                     <div>
-                                        <h5 class="mb-1 fw-normal">Jenny Wilson</h5>
-                                        <p class="mb-0">TechPro Indonesia</p>
+                                        <h5 class="mb-1 fw-normal">Michael Sugianto</h5>
+                                        <p class="mb-0">Customer</p>
                                     </div>
                                 </div>
                             </div>
