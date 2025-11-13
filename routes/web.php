@@ -22,9 +22,9 @@ Route::prefix('partner')->group(function () {
         return view('partner.ugreen');
     })->name('partner.ugreen');
 
-    Route::get('/vention', function () {
-        return view('partner.vention');
-    })->name('partner.vention');
+    Route::get('/lenovo', function () {
+        return view('partner.lenovo');
+    })->name('partner.lenovo');
 
     Route::get('/redmi', function () {
         return view('partner.redmi');
