@@ -26,7 +26,7 @@ Route::prefix('partner')->group(function () {
         return view('partner.lenovo');
     })->name('partner.lenovo');
 
-    Route::get('/redmi', function () {
-        return view('partner.redmi');
-    })->name('partner.redmi');
+    Route::get('/vention', function () {
+        return view('partner.vention');
+    })->name('partner.vention');
 });
