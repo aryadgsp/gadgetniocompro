@@ -5,17 +5,25 @@
 <div class="page-wrapper overflow-hidden">
 
     <!--  Banner Section -->
-    <section class="banner-section banner-inner-section position-relative overflow-hidden d-flex align-items-end"
-        style="background-image: url(../assets/images/backgrounds/projects-detail-banner.jpg);">
-        <div class="container">
-            <div class="d-flex flex-column gap-4 pb-5 pb-xl-10 position-relative z-1">
+    <section class="banner-section banner-inner-section position-relative overflow-hidden d-flex align-items-end">
+        <!-- Background Video -->
+        <video autoplay muted loop playsinline class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover z-0">
+            <source src="../assets/images/portfolio/ugreen-banner.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+
+        <!-- Overlay (opsional agar teks tetap terbaca) -->
+        <div class="container position-relative z-2">
+            <div class="d-flex flex-column gap-4 pb-5 pb-xl-10">
                 <div class="row align-items-center">
                     <div class="col-xl-4">
                         <div class="d-flex align-items-center gap-4" data-aos="fade-up" data-aos-delay="100"
                             data-aos-duration="1000">
                             <img src="../assets/images/logos/logo for spin.svg" alt="" class="img-fluid animate-spin">
-                            <p class="mb-0 text-white fs-5 text-opacity-70">At Gadgetnio Group, <span class="text-primary">we’re proud to collaborate with many Brands. </span>
-                            We bring these innovative solutions closer to consumers and businesses across Indonesia.</p>
+                            <p class="mb-0 text-white fs-5 text-opacity-70">
+                                At Gadgetnio Group, <span class="text-primary">we’re proud to collaborate with many Brands.</span>
+                                We bring these innovative solutions closer to consumers and businesses across Indonesia.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -30,6 +38,7 @@
             </div>
         </div>
     </section>
+
 
     <!--  Project Detail Section -->
     <section class="project-detail py-5 py-lg-11 py-xl-12">
@@ -78,13 +87,13 @@
                             </p>
                             <h4>1. Innovative Tech for Everyday Life</h4>
                             <p class="fs-5 mb-6">
-                                From fast-charging cables to smart hubs and audio devices, 
-                                UGREEN products are designed to elevate productivity and comfort through 
+                                From fast-charging cables to smart hubs and audio devices,
+                                UGREEN products are designed to elevate productivity and comfort through
                                 innovation that fits your lifestyle.
                             </p>
                             <h4>2. Trusted Distribution, Nationwide Reach</h4>
                             <p class="fs-5 mb-0">
-                                With Gadgetnio’s efficient distribution network, UGREEN’s products 
+                                With Gadgetnio’s efficient distribution network, UGREEN’s products
                                 reach retailers and customers quickly, ensuring availability and exceptional after-sales support.
                             </p>
                         </div>
