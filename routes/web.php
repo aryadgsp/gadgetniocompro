@@ -30,7 +30,11 @@ Route::prefix('partner')->group(function () {
         return view('partner.vention');
     })->name('partner.vention');
 
-        Route::get('/aqua', function () {
+    Route::get('/aqua', function () {
         return view('partner.aqua');
     })->name('partner.aqua');
+
+    Route::get('/baseus', function () {
+        return view('partner.baseus');
+    })->name('partner.baseus');
 });
