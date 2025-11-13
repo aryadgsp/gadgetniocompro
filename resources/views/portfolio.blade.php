@@ -123,107 +123,531 @@
                     </div>
                 </div>
                 <div class="col-lg-4 mb-7">
-                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="200"
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
-                        <div class="portfolio-img position-relative overflow-hidden">
-                            <img src="../assets/images/portfolio/vention.png" alt="" class="img-fluid w-100">
-                            <div class="portfolio-overlay">
-                                <a href="projects-detail.html"
-                                    class="position-absolute top-50 start-50 translate-middle bg-primary round-64 rounded-circle hstack justify-content-center">
-                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-8 text-white"></iconify-icon>
+                        <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
                                 </a>
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">VENTION</h3>
-                            <div class="hstack gap-2">
-                                <span class="badge text-dark border">CABLE</span>
-                                <span class="badge text-dark border">GADGET ACCESSORIES</span>
-                            </div>
+                            <h3 class="mb-0">UGREEN</h3>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 mb-7">
-                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="300"
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
-                        <div class="portfolio-img position-relative overflow-hidden">
-                            <img src="../assets/images/portfolio/lenovo.png" alt="" class="img-fluid w-100">
-                            <div class="portfolio-overlay">
-                                <a href="projects-detail.html"
-                                    class="position-absolute top-50 start-50 translate-middle bg-primary round-64 rounded-circle hstack justify-content-center">
-                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-8 text-white"></iconify-icon>
+                        <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
                                 </a>
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">LENOVO</h3>
-                            <div class="hstack gap-2">
-                                <span class="badge text-dark border">CHARGER</span>
-                                <span class="badge text-dark border">CABLE</span>
-                            </div>
+                            <h3 class="mb-0">UGREEN</h3>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 mb-7">
-                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="400"
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
-                        <div class="portfolio-img position-relative overflow-hidden">
-                            <img src="../assets/images/portfolio/portfolio-img-3.jpg" alt="" class="img-fluid w-100">
-                            <div class="portfolio-overlay">
-                                <a href="projects-detail.html"
-                                    class="position-absolute top-50 start-50 translate-middle bg-primary round-64 rounded-circle hstack justify-content-center">
-                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-8 text-dark"></iconify-icon>
+                        <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
                                 </a>
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">BRAND 4</h3>
-                            <div class="hstack gap-2">
-                                <span class="badge text-dark border">VACUUM CLEANER</span>
-                                <span class="badge text-dark border">VACUUM CLEANER ACCESSORIES</span>
-                            </div>
+                            <h3 class="mb-0">UGREEN</h3>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 mb-7">
-                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="500"
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
-                        <div class="portfolio-img position-relative overflow-hidden">
-                            <img src="../assets/images/portfolio/portfolio-img-1.jpg" alt="" class="img-fluid w-100">
-                            <div class="portfolio-overlay">
-                                <a href="projects-detail.html"
-                                    class="position-absolute top-50 start-50 translate-middle bg-primary round-64 rounded-circle hstack justify-content-center">
-                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-8 text-dark"></iconify-icon>
+                        <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
                                 </a>
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">BRAND 5</h3>
-                            <div class="hstack gap-2">
-                                <span class="badge text-dark border">SMARTWATCH</span>
-                                <span class="badge text-dark border">SMARTWATCH CHARGER</span>
-                            </div>
+                            <h3 class="mb-0">UGREEN</h3>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 mb-7">
-                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="600"
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
-                        <div class="portfolio-img position-relative overflow-hidden">
-                            <img src="../assets/images/portfolio/portfolio-img-2.jpg" alt="" class="img-fluid w-100">
-                            <div class="portfolio-overlay">
-                                <a href="projects-detail.html"
-                                    class="position-absolute top-50 start-50 translate-middle bg-primary round-64 rounded-circle hstack justify-content-center">
-                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-8 text-dark"></iconify-icon>
+                        <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
                                 </a>
                             </div>
                         </div>
                         <div class="portfolio-details d-flex flex-column gap-3">
-                            <h3 class="mb-0">BRAND 6</h3>
-                            <div class="hstack gap-2">
-                                <span class="badge text-dark border">SMART HOME</span>
-                                <span class="badge text-dark border">WIFI</span>
+                            <h3 class="mb-0">UGREEN</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-7">
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
+                        data-aos-duration="1000">
+                        <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
+                                </a>
                             </div>
+                        </div>
+                        <div class="portfolio-details d-flex flex-column gap-3">
+                            <h3 class="mb-0">UGREEN</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-7">
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
+                        data-aos-duration="1000">
+                        <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="portfolio-details d-flex flex-column gap-3">
+                            <h3 class="mb-0">UGREEN</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-7">
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
+                        data-aos-duration="1000">
+                        <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="portfolio-details d-flex flex-column gap-3">
+                            <h3 class="mb-0">UGREEN</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-7">
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
+                        data-aos-duration="1000">
+                        <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="portfolio-details d-flex flex-column gap-3">
+                            <h3 class="mb-0">UGREEN</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-7">
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
+                        data-aos-duration="1000">
+                        <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="portfolio-details d-flex flex-column gap-3">
+                            <h3 class="mb-0">UGREEN</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-7">
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
+                        data-aos-duration="1000">
+                        <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="portfolio-details d-flex flex-column gap-3">
+                            <h3 class="mb-0">UGREEN</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-7">
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
+                        data-aos-duration="1000">
+                        <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="portfolio-details d-flex flex-column gap-3">
+                            <h3 class="mb-0">UGREEN</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-7">
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
+                        data-aos-duration="1000">
+                        <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="portfolio-details d-flex flex-column gap-3">
+                            <h3 class="mb-0">UGREEN</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-7">
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
+                        data-aos-duration="1000">
+                        <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="portfolio-details d-flex flex-column gap-3">
+                            <h3 class="mb-0">UGREEN</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-7">
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
+                        data-aos-duration="1000">
+                        <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="portfolio-details d-flex flex-column gap-3">
+                            <h3 class="mb-0">UGREEN</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-7">
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
+                        data-aos-duration="1000">
+                        <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="portfolio-details d-flex flex-column gap-3">
+                            <h3 class="mb-0">UGREEN</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-7">
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
+                        data-aos-duration="1000">
+                        <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="portfolio-details d-flex flex-column gap-3">
+                            <h3 class="mb-0">UGREEN</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-7">
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
+                        data-aos-duration="1000">
+                        <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="portfolio-details d-flex flex-column gap-3">
+                            <h3 class="mb-0">UGREEN</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-7">
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
+                        data-aos-duration="1000">
+                        <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="portfolio-details d-flex flex-column gap-3">
+                            <h3 class="mb-0">UGREEN</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-7">
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
+                        data-aos-duration="1000">
+                        <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="portfolio-details d-flex flex-column gap-3">
+                            <h3 class="mb-0">UGREEN</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-7">
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
+                        data-aos-duration="1000">
+                        <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="portfolio-details d-flex flex-column gap-3">
+                            <h3 class="mb-0">UGREEN</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-7">
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
+                        data-aos-duration="1000">
+                        <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="portfolio-details d-flex flex-column gap-3">
+                            <h3 class="mb-0">UGREEN</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-7">
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
+                        data-aos-duration="1000">
+                        <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/ugreen.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Charger</h5>
+                                <h5>USB Cable</h5>
+                                <a href="/partner/ugreen"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="portfolio-details d-flex flex-column gap-3">
+                            <h3 class="mb-0">UGREEN</h3>
                         </div>
                     </div>
                 </div>
