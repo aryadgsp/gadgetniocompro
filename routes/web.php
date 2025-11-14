@@ -37,4 +37,8 @@ Route::prefix('partner')->group(function () {
     Route::get('/baseus', function () {
         return view('partner.baseus');
     })->name('partner.baseus');
+
+    Route::get('/bodimax', function () {
+        return view('partner.bodimax');
+    })->name('partner.bodimax');
 });
