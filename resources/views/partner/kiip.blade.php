@@ -6,7 +6,7 @@
 
     <!--  Banner Section -->
     <section class="banner-section banner-inner-section position-relative overflow-hidden d-flex align-items-end"
-        style="background-image: url(../assets/images/portfolio/deerma-banner.jpg);">
+        style="background-image: url(../assets/images/portfolio/kiip-banner.jpg);">
         <div class="container position-relative z-2">
             <div class="d-flex flex-column gap-4 pb-5 pb-xl-10">
                 <div class="row align-items-center">
@@ -22,8 +22,8 @@
                     </div>
                 </div>
                 <div class="d-flex align-items-end gap-3" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-                    <h1 class="mb-0 fs-16 text-white lh-1">DEERMA</h1>
-                    <a href="https://deermaindonesia.com/product/category/" class="p-1 ps-7 bg-primary rounded-pill">
+                    <h1 class="mb-0 fs-16 text-white lh-1">KIIP</h1>
+                    <a href="https://kiipkiip.com/" class="p-1 ps-7 bg-primary rounded-pill">
                         <span class="bg-white round-52 rounded-circle d-flex align-items-center justify-content-center">
                             <iconify-icon icon="lucide:arrow-up-right" class="fs-8 text-dark"></iconify-icon>
                         </span>
@@ -48,7 +48,7 @@
                         data-aos-duration="1000">
                         <div class="d-flex flex-column gap-2 py-2 pe-4 pe-lg-8 border-end">
                             <p class="mb-0">Scope of Product</p>
-                            <p class="mb-0 text-dark fs-5 fw-medium">Vacuum Cleaner, Dehumidifier</p>
+                            <p class="mb-0 text-dark fs-5 fw-medium">Powerbank, Earphone, Charger, USB Cable, Gadget Accessories, ETC</p>
                         </div>
                         <div class="d-flex flex-column gap-2 py-2 pe-4 pe-lg-8 border-end">
                             <p class="mb-0">Origin</p>
@@ -61,8 +61,8 @@
                         <div class="d-flex flex-column gap-2 py-2">
                             <p class="mb-0">Website</p>
                             <p class="mb-0 fs-5 fw-medium">
-                                <a href="https://deermaindonesia.com/product/category/" target="_blank" class="text-dark text-decoration-none link-hover">
-                                    deermaindonesia.com
+                                <a href="https://kiipkiip.com/" target="_blank" class="text-dark text-decoration-none link-hover">
+                                    kiipkiip.com
                                 </a>
                             </p>
                         </div>
@@ -71,48 +71,45 @@
                 <div class="row gap-4 gap-lg-0">
                     <div class="col-lg-4">
                         <h2 class="fs-13 mb-0" data-aos="fade-right" data-aos-delay="200" data-aos-duration="1000">
-                            Smart Home Comfort with Deerma Appliances
+                            Powering Everyday Life with KiiP Accessories
                         </h2>
                     </div>
                     <div class="col-lg-8">
                         <div data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
                             <p class="fs-5 mb-6">
-                                Deerma is a leading home appliance brand known for its intelligent, minimalist, and highly efficient
-                                household products. Through Gadgetnio, Deerma’s advanced vacuum cleaners and dehumidifiers are made
-                                accessible to homes and businesses across Indonesia—designed to elevate comfort, cleanliness, and
-                                indoor air quality in everyday living.
+                                KiiP is a modern gadget accessories brand built to keep your devices powered, connected, and ready for any moment.
+                                Through Gadgetnio, KiiP range of powerbanks, earphones, chargers, USB cables, and various gadget accessories
+                                is now accessible to customers and retailers across Indonesia—delivering dependable performance at an affordable value.
                             </p>
-                            <h4>1. Cleaner Spaces with Smart Innovation</h4>
+                            <h4>1. Essential Tech for Every Device</h4>
                             <p class="fs-5 mb-6">
-                                Deerma vacuum cleaners feature powerful suction, ergonomic design, and versatile cleaning functions
-                                suitable for every room. Its dehumidifiers help maintain optimal air quality by reducing excess
-                                moisture—creating safer, healthier, and more comfortable living environments.
+                                From high-capacity powerbanks and comfortable earphones to fast chargers and durable USB cables,
+                                KiiP provides a complete lineup of essential accessories designed to support your daily digital lifestyle.
+                                Practical, stylish, and compatible with a wide range of modern devices.
                             </p>
-                            <h4>2. Reliable Performance, Nationwide Distribution</h4>
+                            <h4>2. Trusted Quality with Nationwide Reach</h4>
                             <p class="fs-5 mb-0">
-                                Supported by Gadgetnio’s extensive distribution network, Deerma products reach customers nationwide
-                                quickly and reliably—ensuring authentic quality, fast availability, and dependable after-sales support
-                                for both retailers and end users.
+                                Supported by Gadgetnio’s extensive distribution network, KiiP products are available nationwide—ensuring
+                                genuine quality, fast availability, and reliable after-sales service for both retailers and end consumers.
                             </p>
                         </div>
                     </div>
                 </div>
 
-
-            <div class="row">
-                <div class="col-12 mb-7" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-                    <img src="../assets/images/portfolio/portfolio-img-4.jpg" alt="services" class="w-100 object-fit-cover">
-                </div>
-                <div class="col-lg-6 mb-7" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-                    <img src="../assets/images/portfolio/portfolio-img-2.jpg" alt="services" class="w-100 object-fit-cover">
-                </div>
-                <div class="col-lg-6 mb-7" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-                    <img src="../assets/images/portfolio/portfolio-img-3.jpg" alt="services" class="w-100 object-fit-cover">
+                <div class="row">
+                    <div class="col-12 mb-7" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+                        <img src="../assets/images/portfolio/portfolio-img-4.jpg" alt="services" class="w-100 object-fit-cover">
+                    </div>
+                    <div class="col-lg-6 mb-7" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
+                        <img src="../assets/images/portfolio/portfolio-img-2.jpg" alt="services" class="w-100 object-fit-cover">
+                    </div>
+                    <div class="col-lg-6 mb-7" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
+                        <img src="../assets/images/portfolio/portfolio-img-3.jpg" alt="services" class="w-100 object-fit-cover">
+                    </div>
                 </div>
             </div>
         </div>
-</div>
-</section>
+    </section>
 
 </div>
 

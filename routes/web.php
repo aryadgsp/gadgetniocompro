@@ -45,4 +45,8 @@ Route::prefix('partner')->group(function () {
     Route::get('/deerma', function () {
         return view('partner.deerma');
     })->name('partner.deerma');
+
+    Route::get('/kiip', function () {
+        return view('partner.kiip');
+    })->name('partner.kiip');
 });
