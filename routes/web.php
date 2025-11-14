@@ -49,4 +49,8 @@ Route::prefix('partner')->group(function () {
     Route::get('/kiip', function () {
         return view('partner.kiip');
     })->name('partner.kiip');
+
+    Route::get('/ksmith', function () {
+        return view('partner.ksmith');
+    })->name('partner.ksmith');
 });
