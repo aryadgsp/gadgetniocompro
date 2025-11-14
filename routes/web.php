@@ -53,4 +53,8 @@ Route::prefix('partner')->group(function () {
     Route::get('/ksmith', function () {
         return view('partner.ksmith');
     })->name('partner.ksmith');
+
+    Route::get('/lenyes', function () {
+        return view('partner.lenyes');
+    })->name('partner.lenyes');
 });
