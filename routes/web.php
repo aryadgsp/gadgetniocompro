@@ -65,4 +65,8 @@ Route::prefix('partner')->group(function () {
     Route::get('/mcdodo', function () {
         return view('partner.mcdodo');
     })->name('partner.mcdodo');
+
+    Route::get('/memo', function () {
+        return view('partner.memo');
+    })->name('partner.memo');
 });
