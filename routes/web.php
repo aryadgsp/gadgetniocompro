@@ -57,4 +57,8 @@ Route::prefix('partner')->group(function () {
     Route::get('/lenyes', function () {
         return view('partner.lenyes');
     })->name('partner.lenyes');
+
+    Route::get('/levoit', function () {
+        return view('partner.levoit');
+    })->name('partner.levoit');
 });
