@@ -69,4 +69,48 @@ Route::prefix('partner')->group(function () {
     Route::get('/memo', function () {
         return view('partner.memo');
     })->name('partner.memo');
+
+    Route::get('/notale', function () {
+        return view('partner.notale');
+    })->name('partner.notale');
+
+    Route::get('/philips', function () {
+        return view('partner.philips');
+    })->name('partner.philips');
+
+    Route::get('/rabit', function () {
+        return view('partner.rabit');
+    })->name('partner.rabit');
+
+    Route::get('/rapa', function () {
+        return view('partner.rapa');
+    })->name('partner.rapa');
+
+    Route::get('/rtaylors', function () {
+        return view('partner.rtaylors');
+    })->name('partner.rtaylors');
+
+    Route::get('/taffware', function () {
+        return view('partner.taffware');
+    })->name('partner.taffware');
+
+    Route::get('/thinkplus', function () {
+        return view('partner.thinkplus');
+    })->name('partner.thinkplus');
+
+    Route::get('/uwant', function () {
+        return view('partner.uwant');
+    })->name('partner.uwant');
+
+    Route::get('/wanbo', function () {
+        return view('partner.wanbo');
+    })->name('partner.wanbo');
+
+    Route::get('/welby', function () {
+        return view('partner.welby');
+    })->name('partner.welby');
+
+    Route::get('/yesoul', function () {
+        return view('partner.yesoul');
+    })->name('partner.yesoul');
 });
