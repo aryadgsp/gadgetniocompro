@@ -69,32 +69,32 @@
                     </div>
                 </div>
                 <div class="row gap-4 gap-lg-0">
-    <div class="col-lg-4">
-        <h2 class="fs-13 mb-0" data-aos="fade-right" data-aos-delay="200" data-aos-duration="1000">
-            Energizing Your Lifestyle with Lenyes Accessories
-        </h2>
-    </div>
-    <div class="col-lg-8">
-        <div data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-            <p class="fs-5 mb-6">
-                Lenyes is a dynamic tech accessories brand delivering reliable power and high-quality audio performance.
-                Through Gadgetnio, Lenyes brings its lineup of powerbanks, audio gadgets, and tripods to customers across Indonesia—
-                offering practical, durable, and stylish solutions for everyday digital needs.
-            </p>
-            <h4>1. Designed for Power, Sound, and Stability</h4>
-            <p class="fs-5 mb-6">
-                From long-lasting powerbanks to clear and powerful audio gadgets, Lenyes products are crafted for convenience and
-                performance. Its sturdy tripods provide stable support for creators, professionals, and everyday users who demand
-                reliability wherever they go.
-            </p>
-            <h4>2. Trusted Quality with Nationwide Access</h4>
-            <p class="fs-5 mb-0">
-                With Gadgetnio’s extensive distribution network, Lenyes accessories are available nationwide—ensuring authentic products,
-                fast delivery, and dependable after-sales service for both retailers and end consumers.
-            </p>
-        </div>
-    </div>
-</div>
+                    <div class="col-lg-4">
+                        <h2 class="fs-13 mb-0" data-aos="fade-right" data-aos-delay="200" data-aos-duration="1000">
+                            Energizing Your Lifestyle with Lenyes Accessories
+                        </h2>
+                    </div>
+                    <div class="col-lg-8">
+                        <div data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
+                            <p class="fs-5 mb-6">
+                                Lenyes is a dynamic tech accessories brand delivering reliable power and high-quality audio performance.
+                                Through Gadgetnio, Lenyes brings its lineup of powerbanks, audio gadgets, and tripods to customers across Indonesia—
+                                offering practical, durable, and stylish solutions for everyday digital needs.
+                            </p>
+                            <h4>1. Designed for Power, Sound, and Stability</h4>
+                            <p class="fs-5 mb-6">
+                                From long-lasting powerbanks to clear and powerful audio gadgets, Lenyes products are crafted for convenience and
+                                performance. Its sturdy tripods provide stable support for creators, professionals, and everyday users who demand
+                                reliability wherever they go.
+                            </p>
+                            <h4>2. Trusted Quality with Nationwide Access</h4>
+                            <p class="fs-5 mb-0">
+                                With Gadgetnio’s extensive distribution network, Lenyes accessories are available nationwide—ensuring authentic products,
+                                fast delivery, and dependable after-sales service for both retailers and end consumers.
+                            </p>
+                        </div>
+                    </div>
+                </div>
 
                 <div class="row">
                     <div class="col-12 mb-7" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
