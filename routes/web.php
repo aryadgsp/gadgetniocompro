@@ -41,4 +41,8 @@ Route::prefix('partner')->group(function () {
     Route::get('/bodimax', function () {
         return view('partner.bodimax');
     })->name('partner.bodimax');
+
+    Route::get('/deerma', function () {
+        return view('partner.deerma');
+    })->name('partner.deerma');
 });
