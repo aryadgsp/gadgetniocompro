@@ -59,7 +59,7 @@
                         </div>
                         <div class="d-flex flex-column gap-2 py-2 pe-4 pe-lg-8 border-end">
                             <p class="mb-0">Origin</p>
-                            <p class="mb-0 text-dark fs-5 fw-medium">China</p>
+                            <p class="mb-0 text-dark fs-5 fw-medium">Indonesia</p>
                         </div>
                         <div class="d-flex flex-column gap-2 py-2 pe-4 pe-lg-8 border-end">
                             <p class="mb-0">Partnership since</p>
