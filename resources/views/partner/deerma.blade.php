@@ -50,14 +50,6 @@
                             <p class="mb-0">Scope of Product</p>
                             <p class="mb-0 text-dark fs-5 fw-medium">Vacuum Cleaner, Dehumidifier</p>
                         </div>
-                        <div class="d-flex flex-column gap-2 py-2 pe-4 pe-lg-8 border-end">
-                            <p class="mb-0">Origin</p>
-                            <p class="mb-0 text-dark fs-5 fw-medium">South Korea</p>
-                        </div>
-                        <div class="d-flex flex-column gap-2 py-2 pe-4 pe-lg-8 border-end">
-                            <p class="mb-0">Partnership since</p>
-                            <p class="mb-0 text-dark fs-5 fw-medium">2019</p>
-                        </div>
                         <div class="d-flex flex-column gap-2 py-2">
                             <p class="mb-0">Website</p>
                             <p class="mb-0 fs-5 fw-medium">
