@@ -32,6 +32,43 @@
             max-height: 40px;
         }
     }
+
+    .lang-toggle .btn.btn-light {
+        background-color: #ffffff !important;
+        border-color: #e9ecef !important;
+        color: var(--bs-primary) !important;
+        /* atau '#008CFF' jika projectmu tidak menggunakan bootstrap vars */
+    }
+
+    /* Wrapper untuk grouping EN/ID */
+    .lang-toggle a {
+        padding: 6px 14px !important;
+        border-radius: 6px !important;
+        font-weight: 600;
+        border: 1px solid #008CFF !important;
+        /* warna primary kamu */
+        transition: 0.2s ease;
+    }
+
+    /* Tombol tidak aktif */
+    .lang-toggle a.lang-inactive {
+        background: #ffffff !important;
+        color: #008CFF !important;
+    }
+
+    /* Tombol aktif */
+    .lang-toggle a.lang-active {
+        background: #008CFF !important;
+        color: #ffffff !important;
+    }
+
+    /* Mobile version */
+    @media (max-width: 576px) {
+        .lang-toggle a {
+            padding: 3px 10px !important;
+            font-size: 12px !important;
+        }
+    }
 </style>
 
 <body>
@@ -47,7 +84,40 @@
                         <img src="{{ asset('assets/images/logos/dark.svg') }}" alt="logo" class="img-fluid">
                     </a>
                 </div>
+
                 <div class="d-flex align-items-center gap-4">
+                    <!-- Toggle Bahasa -->
+                    <div class="btn-group lang-toggle">
+                        @php
+                        $currentUrl = request()->path();
+                        $isIndo = preg_match('/^id(\/)?/', $currentUrl);
+
+                        // URL EN
+                        if ($isIndo) {
+                        preg_match('/^id\/?(.*)$/', $currentUrl, $match);
+                        $englishPath = $match[1] ?? '';
+                        $toEnglish = url($englishPath === '' ? '/' : $englishPath);
+                        } else {
+                        $toEnglish = url($currentUrl === '' ? '/' : $currentUrl);
+                        }
+
+                        // URL ID
+                        $toIndo = $isIndo ? url($currentUrl) : url('id/' . $currentUrl);
+                        @endphp
+
+                        <!-- EN -->
+                        <a href="{{ $toEnglish }}"
+                            class="{{ !$isIndo ? 'lang-active' : 'lang-inactive' }}">
+                            EN
+                        </a>
+
+                        <!-- ID -->
+                        <a href="{{ $toIndo }}"
+                            class="{{ $isIndo ? 'lang-active' : 'lang-inactive' }}">
+                            ID
+                        </a>
+                    </div>
+
                     <div class="btn-group">
                         <button
                             class="btn btn-secondary toggle-menu round-45 p-2 d-flex align-items-center justify-content-center bg-white rounded-circle"
