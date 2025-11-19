@@ -136,99 +136,99 @@ Route::prefix('id')->name('id.')->group(function () {
     // Group Route for Partner
     Route::prefix('partner')->group(function () {
         Route::get('/ugreen', function () {
-            return view('partner.ugreen');
+            return view('id.partner.ugreen');
         })->name('partner.ugreen');
 
         Route::get('/lenovo', function () {
-            return view('partner.lenovo');
+            return view('id.partner.lenovo');
         })->name('partner.lenovo');
 
         Route::get('/vention', function () {
-            return view('partner.vention');
+            return view('id.partner.vention');
         })->name('partner.vention');
 
         Route::get('/aqua', function () {
-            return view('partner.aqua');
+            return view('id.partner.aqua');
         })->name('partner.aqua');
 
         Route::get('/baseus', function () {
-            return view('partner.baseus');
+            return view('id.partner.baseus');
         })->name('partner.baseus');
 
         Route::get('/bodimax', function () {
-            return view('partner.bodimax');
+            return view('id.partner.bodimax');
         })->name('partner.bodimax');
 
         Route::get('/deerma', function () {
-            return view('partner.deerma');
+            return view('id.partner.deerma');
         })->name('partner.deerma');
 
         Route::get('/kiip', function () {
-            return view('partner.kiip');
+            return view('id.partner.kiip');
         })->name('partner.kiip');
 
         Route::get('/ksmith', function () {
-            return view('partner.ksmith');
+            return view('id.partner.ksmith');
         })->name('partner.ksmith');
 
         Route::get('/lenyes', function () {
-            return view('partner.lenyes');
+            return view('id.partner.lenyes');
         })->name('partner.lenyes');
 
         Route::get('/levoit', function () {
-            return view('partner.levoit');
+            return view('id.partner.levoit');
         })->name('partner.levoit');
 
         Route::get('/mcdodo', function () {
-            return view('partner.mcdodo');
+            return view('id.partner.mcdodo');
         })->name('partner.mcdodo');
 
         Route::get('/memo', function () {
-            return view('partner.memo');
+            return view('id.partner.memo');
         })->name('partner.memo');
 
         Route::get('/notale', function () {
-            return view('partner.notale');
+            return view('id.partner.notale');
         })->name('partner.notale');
 
         Route::get('/philips', function () {
-            return view('partner.philips');
+            return view('id.partner.philips');
         })->name('partner.philips');
 
         Route::get('/rabit', function () {
-            return view('partner.rabit');
+            return view('id.partner.rabit');
         })->name('partner.rabit');
 
         Route::get('/rapa', function () {
-            return view('partner.rapa');
+            return view('id.partner.rapa');
         })->name('partner.rapa');
 
         Route::get('/rtaylors', function () {
-            return view('partner.rtaylors');
+            return view('id.partner.rtaylors');
         })->name('partner.rtaylors');
 
         Route::get('/taffware', function () {
-            return view('partner.taffware');
+            return view('id.partner.taffware');
         })->name('partner.taffware');
 
         Route::get('/thinkplus', function () {
-            return view('partner.thinkplus');
+            return view('id.partner.thinkplus');
         })->name('partner.thinkplus');
 
         Route::get('/uwant', function () {
-            return view('partner.uwant');
+            return view('id.partner.uwant');
         })->name('partner.uwant');
 
         Route::get('/wanbo', function () {
-            return view('partner.wanbo');
+            return view('id.partner.wanbo');
         })->name('partner.wanbo');
 
         Route::get('/welby', function () {
-            return view('partner.welby');
+            return view('id.partner.welby');
         })->name('partner.welby');
 
         Route::get('/yesoul', function () {
-            return view('partner.yesoul');
+            return view('id.partner.yesoul');
         })->name('partner.yesoul');
     });
 });
