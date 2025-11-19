@@ -96,14 +96,14 @@ $images = File::files(public_path('assets/images/pricing'));
                             <div class="col-md-6 col-lg-4 mb-7 mb-lg-0">
                                 <div class="d-flex flex-column gap-6 pt-9 border-top" data-aos="fade-up" data-aos-delay="200"
                                     data-aos-duration="1000">
-                                    <h2 class="mb-0 fs-14"><span class="count" data-target="40">500</span>+</h2>
+                                    <h2 class="mb-0 fs-14"><span class="count" data-target="40">20</span>+</h2>
                                     <p class="mb-0">Business Partners</p>
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4 mb-7 mb-lg-0">
                                 <div class="d-flex flex-column gap-6 pt-9 border-top" data-aos="fade-up" data-aos-delay="300"
                                     data-aos-duration="1000">
-                                    <h2 class="mb-0 fs-14"><span class="count" data-target="238">50</span>K+</h2>
+                                    <h2 class="mb-0 fs-14"><span class="count" data-target="238">5</span>K+</h2>
                                     <p class="mb-0">Products Distributed</p>
                                 </div>
                             </div>
