@@ -114,3 +114,22 @@ Route::prefix('partner')->group(function () {
         return view('partner.yesoul');
     })->name('partner.yesoul');
 });
+
+// Routes for Bahasa Indonesia Version
+Route::prefix('id')->name('id.')->group(function () {
+
+    Route::get('/', function () {
+        return view('id.index');
+    })->name('index');
+
+    Route::get('/tentangkami', function () {
+        return view('id.about-us');
+    });
+    Route::get('/portfolio', function () {
+        return view('id.portfolio');
+    });
+
+    Route::get('/kontak', function () {
+        return view('id.contact');
+    });
+});
