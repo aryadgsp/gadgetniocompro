@@ -122,14 +122,14 @@ Route::prefix('id')->name('id.')->group(function () {
         return view('id.index');
     })->name('index');
 
-    Route::get('/tentangkami', function () {
+    Route::get('/about-us', function () {
         return view('id.about-us');
     });
     Route::get('/portfolio', function () {
         return view('id.portfolio');
     });
 
-    Route::get('/kontak', function () {
+    Route::get('/contact', function () {
         return view('id.contact');
     });
 });

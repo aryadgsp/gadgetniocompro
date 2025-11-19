@@ -140,7 +140,7 @@
                                             </a>
                                         </li>
                                         <li class="header-item">
-                                            <a href="{{ url('/id/tentangkami') }}" class="header-link hstack gap-2 fs-7 fw-bold text-dark">
+                                            <a href="{{ url('/id/about-us') }}" class="header-link hstack gap-2 fs-7 fw-bold text-dark">
                                                 <img src="{{ asset('assets/images/logos/logo for spin 2nd.svg') }}" alt="" width="20" height="20"
                                                     class="img-fluid animate-spin">Tentang
                                             </a>
@@ -152,7 +152,7 @@
                                             </a>
                                         </li>
                                         <li class="header-item">
-                                            <a href="{{ url('/id/kontak') }}" class="header-link hstack gap-2 fs-7 fw-bold text-dark">
+                                            <a href="{{ url('/id/contact') }}" class="header-link hstack gap-2 fs-7 fw-bold text-dark">
                                                 <img src="{{ asset('assets/images/logos/logo for spin 2nd.svg') }}" alt="" width="20" height="20"
                                                     class="img-fluid animate-spin">Hubungi
                                             </a>
@@ -196,9 +196,9 @@
                 <div class="col-md-4 col-xl-2 mb-8 mb-xl-0">
                     <ul class="footer-menu list-unstyled mb-0 d-flex flex-column gap-2">
                         <li><a class="link-hover fs-5 text-black" href="/id/">Beranda</a></li>
-                        <li><a class="link-hover fs-5 text-black" href="/id/tentangkami">Tentang</a></li>
+                        <li><a class="link-hover fs-5 text-black" href="/id/about-us">Tentang</a></li>
                         <li><a class="link-hover fs-5 text-black" href="/id/portfolio">Portfolio</a></li>
-                        <li><a class="link-hover fs-5 text-black" href="/id/kontak">Hubungi</a></li>
+                        <li><a class="link-hover fs-5 text-black" href="/id/contact">Hubungi</a></li>
                     </ul>
                 </div>
 
