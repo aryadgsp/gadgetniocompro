@@ -155,6 +155,7 @@
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
                                 <h5>USB Cable</h5>
+                                <h5>Powerbank</h5>
                                 <a href="/partner/ugreen"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
@@ -176,8 +177,7 @@
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
-                                <h5>Charger</h5>
-                                <h5>USB Cable</h5>
+                                <h5>Wireless Speaker</h5>
                                 <a href="/partner/lenovo"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
@@ -200,7 +200,8 @@
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
-                                <h5>USB Cable</h5>
+                                <h5>USB Cable & Dongle</h5>
+                                <h5>HDMI Cable</h5>
                                 <a href="/partner/vention"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
@@ -222,8 +223,7 @@
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
-                                <h5>Charger</h5>
-                                <h5>USB Cable</h5>
+                                <h5>Vacuum Cleaner</h5>
                                 <a href="/partner/aqua"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
@@ -245,7 +245,7 @@
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
-                                <h5>Charger</h5>
+                                <h5>Earphone & TWS</h5>
                                 <h5>USB Cable</h5>
                                 <a href="/partner/baseus"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
@@ -268,8 +268,9 @@
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
-                                <h5>Charger</h5>
-                                <h5>USB Cable</h5>
+                                <h5>Treadmill Pad</h5>
+                                <h5>Static Bike</h5>
+                                <h5>Gym Accessories</h5>
                                 <a href="/partner/bodimax"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
@@ -291,8 +292,8 @@
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
-                                <h5>Charger</h5>
-                                <h5>USB Cable</h5>
+                                <h5>Vacuum Cleaner</h5>
+                                <h5>Dehumidifier</h5>
                                 <a href="/partner/deerma"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
@@ -314,8 +315,9 @@
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
-                                <h5>Charger</h5>
-                                <h5>USB Cable</h5>
+                                <h5>Charger & USB Cable</h5>
+                                <h5>Earphone</h5>
+                                <h5>Powerbank</h5>
                                 <a href="/partner/kiip"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
@@ -337,8 +339,8 @@
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
-                                <h5>Charger</h5>
-                                <h5>USB Cable</h5>
+                                <h5>Treadmill</h5>
+                                <h5>Gym Equipment</h5>
                                 <a href="/partner/ksmith"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
@@ -360,8 +362,9 @@
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
-                                <h5>Charger</h5>
-                                <h5>USB Cable</h5>
+                                <h5>Powerbank</h5>
+                                <h5>Audio Gadget</h5>
+                                <h5>Tripod</h5>
                                 <a href="/partner/lenyes"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
@@ -383,8 +386,7 @@
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
-                                <h5>Charger</h5>
-                                <h5>USB Cable</h5>
+                                <h5>Air Purifier</h5>
                                 <a href="/partner/levoit"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
@@ -406,8 +408,9 @@
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
-                                <h5>Charger</h5>
-                                <h5>USB Cable</h5>
+                                <h5>Charger & USB Cable</h5>
+                                <h5>Powerbank</h5>
+                                <h5>Earphone</h5>
                                 <a href="/partner/mcdodo"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
@@ -429,8 +432,9 @@
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
-                                <h5>Charger</h5>
-                                <h5>USB Cable</h5>
+                                <h5>Cooling Fan</h5>
+                                <h5>Game Pad</h5>
+                                <h5>Gaming Gadget</h5>
                                 <a href="/partner/memo"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
@@ -452,8 +456,9 @@
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
-                                <h5>Charger</h5>
-                                <h5>USB Cable</h5>
+                                <h5>Vacuum Cleaner</h5>
+                                <h5>Dehumidifier</h5>
+                                <h5>Air Purifier</h5>
                                 <a href="/partner/notale"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
@@ -475,8 +480,7 @@
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
-                                <h5>Charger</h5>
-                                <h5>USB Cable</h5>
+                                <h5>Massage Equipment</h5>
                                 <a href="/partner/philips"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
@@ -498,8 +502,9 @@
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
-                                <h5>Charger</h5>
-                                <h5>USB Cable</h5>
+                                <h5>CCTV</h5>
+                                <h5>Smart Bulb</h5>
+                                <h5>Memory Card</h5>
                                 <a href="/partner/rabit"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
@@ -522,7 +527,8 @@
 
                             <div class="portfolio-content">
                                 <h5>Charger</h5>
-                                <h5>USB Cable</h5>
+                                <h5>Powerbank</h5>
+                                <h5>Tempered Glass</h5>
                                 <a href="/partner/rapa"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
@@ -544,8 +550,9 @@
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
-                                <h5>Charger</h5>
-                                <h5>USB Cable</h5>
+                                <h5>Toaster</h5>
+                                <h5>Hair Dryer</h5>
+                                <h5>Body Fat Scale</h5>
                                 <a href="/partner/rtaylors"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
@@ -567,8 +574,8 @@
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
-                                <h5>Charger</h5>
-                                <h5>USB Cable</h5>
+                                <h5>Home Appliances</h5>
+                                <h5>Computer Peripherals & Accessories</h5>
                                 <a href="/partner/taffware"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
@@ -590,8 +597,8 @@
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
-                                <h5>Charger</h5>
-                                <h5>USB Cable</h5>
+                                <h5>Earphone</h5>
+                                <h5>Speaker</h5>
                                 <a href="/partner/thinkplus"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
@@ -613,8 +620,7 @@
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
-                                <h5>Charger</h5>
-                                <h5>USB Cable</h5>
+                                <h5>Vacuum Cleaner</h5>
                                 <a href="/partner/uwant"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
@@ -636,8 +642,7 @@
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
-                                <h5>Charger</h5>
-                                <h5>USB Cable</h5>
+                                <h5>Projector</h5>
                                 <a href="/partner/wanbo"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
@@ -659,8 +664,7 @@
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
-                                <h5>Charger</h5>
-                                <h5>USB Cable</h5>
+                                <h5>Electric Toothbrush</h5>
                                 <a href="/partner/welby"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">
@@ -682,8 +686,9 @@
                             <div class="portfolio-overlay"></div>
 
                             <div class="portfolio-content">
-                                <h5>Charger</h5>
-                                <h5>USB Cable</h5>
+                                <h5>Treadmill</h5>
+                                <h5>Spinning Bike</h5>
+                                <h5>Gym Equipment</h5>
                                 <a href="/partner/yesoul"
                                     class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
                                     style="width:48px; height:48px;">

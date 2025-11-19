@@ -55,7 +55,7 @@
                         data-aos-duration="1000">
                         <div class="d-flex flex-column gap-2 py-2 pe-4 pe-lg-8 border-end">
                             <p class="mb-0">Scope of Product</p>
-                            <p class="mb-0 text-dark fs-5 fw-medium">Charger, USB Cable, Powerbank</p>
+                            <p class="mb-0 text-dark fs-5 fw-medium">USB Cable, Earphone & TWS</p>
                         </div>
                         <div class="d-flex flex-column gap-2 py-2">
                             <p class="mb-0">Website</p>
