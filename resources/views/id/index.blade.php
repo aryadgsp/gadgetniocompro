@@ -587,8 +587,8 @@ $images = File::files(public_path('assets/images/pricing'));
                                 <div id="flush-collapseOne" class="accordion-collapse collapse"
                                     data-bs-parent="#accordionFlushExample">
                                     <div class="accordion-body pt-0 fs-5 text-black">
-                                        Kami terutama melayani distribusi untuk retailer dan perusahaan.
-                                        Namun, beberapa pembelian untuk konsumen tersedia melalui partner resmi kami.
+                                        KKami menjual produk secara langsung kepada pelanggan, dan juga terbuka untuk berkolaborasi 
+                                        melalui berbagai skema bisnis lainnya sesuai kebutuhan mitra.
                                     </div>
                                 </div>
                             </div>
@@ -623,7 +623,7 @@ $images = File::files(public_path('assets/images/pricing'));
                                 <div id="flush-collapseThree" class="accordion-collapse collapse"
                                     data-bs-parent="#accordionFlushExample">
                                     <div class="accordion-body pt-0 fs-5 text-black">
-                                        Kami melayani partner dan pelanggan di seluruh kota besar di Indonesia.
+                                        Kami melayani partner dan pelanggan di seluruh kota di Indonesia.
                                         Kami juga terbuka untuk kerja sama dengan brand internasional.
                                     </div>
                                 </div>
