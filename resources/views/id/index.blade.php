@@ -587,7 +587,7 @@ $images = File::files(public_path('assets/images/pricing'));
                                 <div id="flush-collapseOne" class="accordion-collapse collapse"
                                     data-bs-parent="#accordionFlushExample">
                                     <div class="accordion-body pt-0 fs-5 text-black">
-                                        KKami menjual produk secara langsung kepada pelanggan, dan juga terbuka untuk berkolaborasi 
+                                        Kami menjual produk secara langsung kepada pelanggan, dan juga terbuka untuk berkolaborasi 
                                         melalui berbagai skema bisnis lainnya sesuai kebutuhan mitra.
                                     </div>
                                 </div>
