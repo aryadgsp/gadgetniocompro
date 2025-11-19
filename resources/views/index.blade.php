@@ -635,7 +635,7 @@ $images = File::files(public_path('assets/images/pricing'));
                                     class="border rounded-circle round-490 d-block position-absolute top-0 start-50 translate-middle"></span>
                                 <div class="card-body d-flex flex-column justify-content-between">
                                     <div>
-                                        <h2 class="mb-0 text-dark">238+</h2>
+                                        <h2 class="mb-0 text-dark">20+</h2>
                                         <p class="mb-0 text-dark">Brands served worldwide</p>
                                     </div>
                                     <div class="d-flex flex-column gap-3">
