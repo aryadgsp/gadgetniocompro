@@ -568,7 +568,7 @@ $images = File::files(public_path('assets/images/pricing'));
                                     </div>
                                     <div class="position-relative z-1">
                                         <div class="pb-6 border-bottom">
-                                            <h2 class="mb-0 text-white">98.6%</h2>
+                                            <h2 class="mb-0 text-white">98%</h2>
                                             <p class="mb-0 text-white">Customer satisfaction</p>
                                         </div>
                                         <div class="hstack gap-6 pt-6">
@@ -595,7 +595,7 @@ $images = File::files(public_path('assets/images/pricing'));
                                 <div class="card bg-dark">
                                     <div class="card-body d-flex flex-column gap-7">
                                         <div>
-                                            <h2 class="mb-0 text-white">500+</h2>
+                                            <h2 class="mb-0 text-white">20+</h2>
                                             <p class="mb-0 text-white text-opacity-80">Business Partners</p>
                                         </div>
                                         <ul class="d-flex align-items-center mb-0">
