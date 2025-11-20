@@ -63,7 +63,7 @@
                     </div>
                     <div class="col-md-6 col-lg-4 mb-8 mb-lg-0">
                         <div class="d-flex flex-column gap-7" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-                            <h2 class="mb-0 fs-13 pb-7 border-bottom"><span class="count" data-target="15">5</span>K+</h2>
+                            <h2 class="mb-0 fs-13 pb-7 border-bottom"><span class="count" data-target="15">5</span>M+</h2>
                             <div class="d-flex flex-column gap-3">
                                 <h4 class="mb-0">Products Distributed</h4>
                                 <p class="mb-0">Delivering over a thousand high-quality gadgets and electronic devices to the market.</p>
