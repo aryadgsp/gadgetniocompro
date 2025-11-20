@@ -8,7 +8,7 @@
     <section class="banner-section banner-inner-section position-relative overflow-hidden d-flex align-items-end">
         <!-- Background Video -->
         <video autoplay muted loop playsinline class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover z-0">
-            <source src="../assets/images/portfolio/taffware-banner.mp4" type="video/mp4">
+            <source src="../../assets/images/portfolio/taffware-banner.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
 
@@ -19,10 +19,10 @@
                     <div class="col-xl-4">
                         <div class="d-flex align-items-center gap-4" data-aos="fade-up" data-aos-delay="100"
                             data-aos-duration="1000">
-                            <img src="../assets/images/logos/logo for spin.svg" alt="" class="img-fluid animate-spin">
+                            <img src="../../assets/images/logos/logo for spin.svg" alt="" class="img-fluid animate-spin">
                             <p class="mb-0 text-white fs-5 text-opacity-70">
-                                At Gadgetnio Group, <span class="text-primary">we’re proud to collaborate with many Brands.</span>
-                                We bring these innovative solutions closer to consumers and businesses across Indonesia.
+                                Di Gadgetnio Group, <span class="text-primary">kami bangga berkolaborasi dengan berbagai brand ternama.</span>
+                                Kami menghadirkan solusi inovatif ini lebih dekat kepada konsumen dan pelaku bisnis di seluruh Indonesia.
                             </p>
                         </div>
                     </div>
@@ -45,16 +45,16 @@
         <div class="container">
             <div class="d-flex flex-column gap-5 gap-xl-11">
                 <div class="d-flex flex-column gap-8">
-                    <a href="/portfolio" class="btn py-2 ps-3 pe-5" data-aos="fade-up" data-aos-delay="100"
+                    <a href="/id/portfolio" class="btn py-2 ps-3 pe-5" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
-                        <span class="btn-text pe-1 text-white">Back</span>
+                        <span class="btn-text pe-1 text-white">Kembali</span>
                         <iconify-icon icon="lucide:arrow-up-right"
                             class="btn-icon bg-white text-dark round-36 rounded-circle hstack justify-content-center fs-5 shadow-sm"></iconify-icon>
                     </a>
                     <div class="d-md-flex align-items-center gap-4 gap-lg-8" data-aos="fade-up" data-aos-delay="200"
                         data-aos-duration="1000">
                         <div class="d-flex flex-column gap-2 py-2 pe-4 pe-lg-8 border-end">
-                            <p class="mb-0">Scope of Product</p>
+                            <p class="mb-0">Cakupan Produk</p>
                             <p class="mb-0 text-dark fs-5 fw-medium">Home Appliances, Computer Peripherals & Accessories</p>
                         </div>
                         <div class="d-flex flex-column gap-2 py-2">
@@ -67,32 +67,32 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="row gap-4 gap-lg-0">
                     <div class="col-lg-4">
                         <h2 class="fs-13 mb-0" data-aos="fade-right" data-aos-delay="200" data-aos-duration="1000">
-                            Smart Solutions for Home & Work with Taffware
+                            Solusi Cerdas untuk Rumah & Kerja dengan Taffware
                         </h2>
                     </div>
                     <div class="col-lg-8">
                         <div data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
                             <p class="fs-5 mb-6">
-                                Taffware is a versatile and innovative brand offering practical home appliances, computer peripherals,
-                                and essential tech accessories designed to support modern lifestyles. Through Gadgetnio, Taffware’s
-                                diverse product lineup is now accessible across Indonesia—bringing convenience, utility, and reliable
-                                performance to homes and workspaces.
+                                Taffware adalah brand yang inovatif dan serbaguna, menawarkan peralatan rumah tangga praktis, periferal komputer,
+                                serta berbagai aksesori teknologi esensial yang mendukung gaya hidup modern. Melalui Gadgetnio, beragam produk Taffware
+                                kini dapat diakses di seluruh Indonesia—membawa kenyamanan, fungsi, dan kinerja andal ke rumah maupun tempat kerja.
                             </p>
 
-                            <h4>1. Practical Technology for Everyday Convenience</h4>
+                            <h4>1. Teknologi Praktis untuk Kemudahan Sehari-hari</h4>
                             <p class="fs-5 mb-6">
-                                From efficient home appliances that simplify daily chores to computer peripherals and accessories that enhance
-                                productivity, Taffware delivers solutions built for real-world needs. Each product combines functionality,
-                                affordability, and user-friendly design—making technology easier and more accessible for everyone.
+                                Mulai dari peralatan rumah tangga yang mempermudah pekerjaan harian hingga periferal komputer dan aksesori yang meningkatkan
+                                produktivitas, Taffware menghadirkan solusi yang dirancang sesuai kebutuhan nyata. Setiap produk menggabungkan fungsionalitas,
+                                harga terjangkau, dan desain yang mudah digunakan—membuat teknologi lebih sederhana dan dapat dijangkau oleh semua orang.
                             </p>
 
-                            <h4>2. Reliable Quality with Nationwide Distribution</h4>
+                            <h4>2. Kualitas Terpercaya dengan Distribusi Nasional</h4>
                             <p class="fs-5 mb-0">
-                                Supported by Gadgetnio’s extensive distribution network, Taffware products reach retailers and customers quickly
-                                and reliably—ensuring authentic quality, wide availability, and dependable after-sales support across Indonesia.
+                                Didukung oleh jaringan distribusi Gadgetnio yang luas, produk Taffware menjangkau retailer dan pelanggan dengan cepat
+                                dan andal—menjamin kualitas asli, ketersediaan yang melimpah, serta dukungan purna jual yang dapat dipercaya di seluruh Indonesia.
                             </p>
                         </div>
                     </div>
@@ -100,13 +100,13 @@
 
                 <div class="row">
                     <div class="col-12 mb-7" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-                        <img src="../assets/images/portfolio/portfolio-img-4.jpg" alt="services" class="w-100 object-fit-cover">
+                        <img src="../../assets/images/portfolio/portfolio-img-4.jpg" alt="services" class="w-100 object-fit-cover">
                     </div>
                     <div class="col-lg-6 mb-7" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-                        <img src="../assets/images/portfolio/portfolio-img-2.jpg" alt="services" class="w-100 object-fit-cover">
+                        <img src="../../assets/images/portfolio/portfolio-img-2.jpg" alt="services" class="w-100 object-fit-cover">
                     </div>
                     <div class="col-lg-6 mb-7" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-                        <img src="../assets/images/portfolio/portfolio-img-3.jpg" alt="services" class="w-100 object-fit-cover">
+                        <img src="../../assets/images/portfolio/portfolio-img-3.jpg" alt="services" class="w-100 object-fit-cover">
                     </div>
                 </div>
             </div>
