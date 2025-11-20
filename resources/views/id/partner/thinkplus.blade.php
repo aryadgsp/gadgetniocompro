@@ -6,17 +6,17 @@
 
     <!--  Banner Section -->
     <section class="banner-section banner-inner-section position-relative overflow-hidden d-flex align-items-end"
-        style="background-image: url(../assets/images/portfolio/thinkplus-banner.jpg);">
+        style="background-image: url(../../assets/images/portfolio/thinkplus-banner.jpg);">
         <div class="container position-relative z-2">
             <div class="d-flex flex-column gap-4 pb-5 pb-xl-10">
                 <div class="row align-items-center">
                     <div class="col-xl-4">
                         <div class="d-flex align-items-center gap-4" data-aos="fade-up" data-aos-delay="100"
                             data-aos-duration="1000">
-                            <img src="../assets/images/logos/logo for spin.svg" alt="" class="img-fluid animate-spin">
+                            <img src="../../assets/images/logos/logo for spin.svg" alt="" class="img-fluid animate-spin">
                             <p class="mb-0 text-white fs-5 text-opacity-70">
-                                At Gadgetnio Group, <span class="text-primary">we’re proud to collaborate with many Brands.</span>
-                                We bring these innovative solutions closer to consumers and businesses across Indonesia.
+                                Di Gadgetnio Group, <span class="text-primary">kami bangga berkolaborasi dengan berbagai brand ternama.</span>
+                                Kami menghadirkan solusi inovatif ini lebih dekat kepada konsumen dan pelaku bisnis di seluruh Indonesia.
                             </p>
                         </div>
                     </div>
@@ -38,16 +38,16 @@
         <div class="container">
             <div class="d-flex flex-column gap-5 gap-xl-11">
                 <div class="d-flex flex-column gap-8">
-                    <a href="/portfolio" class="btn py-2 ps-3 pe-5" data-aos="fade-up" data-aos-delay="100"
+                    <a href="/id/portfolio" class="btn py-2 ps-3 pe-5" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
-                        <span class="btn-text pe-1 text-white">Back</span>
+                        <span class="btn-text pe-1 text-white">Kembali</span>
                         <iconify-icon icon="lucide:arrow-up-right"
                             class="btn-icon bg-white text-dark round-36 rounded-circle hstack justify-content-center fs-5 shadow-sm"></iconify-icon>
                     </a>
                     <div class="d-md-flex align-items-center gap-4 gap-lg-8" data-aos="fade-up" data-aos-delay="200"
                         data-aos-duration="1000">
                         <div class="d-flex flex-column gap-2 py-2 pe-4 pe-lg-8 border-end">
-                            <p class="mb-0">Scope of Product</p>
+                            <p class="mb-0">Cakupan Produk</p>
                             <p class="mb-0 text-dark fs-5 fw-medium">Earphone, Speaker</p>
                         </div>
                         <div class="d-flex flex-column gap-2 py-2">
@@ -64,29 +64,30 @@
                 <div class="row gap-4 gap-lg-0">
                     <div class="col-lg-4">
                         <h2 class="fs-13 mb-0" data-aos="fade-right" data-aos-delay="200" data-aos-duration="1000">
-                            Clear Sound, Everyday Comfort with Thinkplus
+                            Suara Jernih, Kenyamanan Sehari-hari bersama Thinkplus
                         </h2>
                     </div>
                     <div class="col-lg-8">
                         <div data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
                             <p class="fs-5 mb-6">
-                                Thinkplus is a modern audio brand known for delivering high-quality earphones and speakers
-                                that combine clear sound, sleek design, and everyday practicality. Through Gadgetnio, Thinkplus audio products
-                                are now available across Indonesia—providing an enjoyable listening experience for work, entertainment, and daily use.
+                                Thinkplus adalah brand audio modern yang dikenal dengan produk earphone dan speaker berkualitas tinggi,
+                                menggabungkan kejernihan suara, desain elegan, dan kenyamanan penggunaan sehari-hari. Melalui Gadgetnio,
+                                produk audio Thinkplus kini tersedia di seluruh Indonesia—menghadirkan pengalaman mendengarkan yang menyenangkan
+                                untuk bekerja, hiburan, maupun aktivitas harian.
                             </p>
 
-                            <h4>1. Crystal-Clear Audio for Every Moment</h4>
+                            <h4>1. Audio Jernih untuk Setiap Momen</h4>
                             <p class="fs-5 mb-6">
-                                From comfortable earphones designed for long listening sessions to compact speakers with powerful clarity,
-                                Thinkplus offers audio solutions that elevate productivity, entertainment, and leisure.
-                                Each product is crafted with reliable components, modern style, and user-focused performance.
+                                Mulai dari earphone yang nyaman untuk sesi mendengarkan lama hingga speaker ringkas dengan kejernihan suara yang kuat,
+                                Thinkplus menghadirkan solusi audio yang meningkatkan produktivitas, hiburan, dan waktu santai.
+                                Setiap produk dirancang dengan komponen yang andal, gaya modern, dan performa yang berfokus pada kenyamanan pengguna.
                             </p>
 
-                            <h4>2. Trusted Distribution, Authentic Thinkplus Quality</h4>
+                            <h4>2. Distribusi Terpercaya, Kualitas Thinkplus yang Autentik</h4>
                             <p class="fs-5 mb-0">
-                                Supported by Gadgetnio’s extensive distribution network, Thinkplus products reach retailers and customers
-                                quickly and securely—ensuring authentic quality, wide availability, and dependable after-sales support
-                                throughout Indonesia.
+                                Didukung oleh jaringan distribusi Gadgetnio yang luas, produk Thinkplus menjangkau retailer dan pelanggan
+                                dengan cepat dan aman—menjamin kualitas asli, ketersediaan luas, serta dukungan purna jual yang dapat diandalkan
+                                di seluruh Indonesia.
                             </p>
                         </div>
                     </div>
@@ -94,13 +95,13 @@
 
                 <div class="row">
                     <div class="col-12 mb-7" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-                        <img src="../assets/images/portfolio/portfolio-img-4.jpg" alt="services" class="w-100 object-fit-cover">
+                        <img src="../../assets/images/portfolio/portfolio-img-4.jpg" alt="services" class="w-100 object-fit-cover">
                     </div>
                     <div class="col-lg-6 mb-7" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-                        <img src="../assets/images/portfolio/portfolio-img-2.jpg" alt="services" class="w-100 object-fit-cover">
+                        <img src="../../assets/images/portfolio/portfolio-img-2.jpg" alt="services" class="w-100 object-fit-cover">
                     </div>
                     <div class="col-lg-6 mb-7" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-                        <img src="../assets/images/portfolio/portfolio-img-3.jpg" alt="services" class="w-100 object-fit-cover">
+                        <img src="../../assets/images/portfolio/portfolio-img-3.jpg" alt="services" class="w-100 object-fit-cover">
                     </div>
                 </div>
             </div>
