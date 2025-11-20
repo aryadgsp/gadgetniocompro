@@ -63,24 +63,24 @@
                 <div class="row gap-4 gap-lg-0">
                     <div class="col-lg-4">
                         <h2 class="fs-13 mb-0" data-aos="fade-right" data-aos-delay="200" data-aos-duration="1000">
-                            Simplifying Clean Living with Aqua Electronics
+                            Mempermudah Hidup Bersih dengan Aqua Electronics
                         </h2>
                     </div>
                     <div class="col-lg-8">
                         <div data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
                             <p class="fs-5 mb-6">
-                                Aqua Electronics is a trusted name in home appliances, dedicated to delivering innovative and reliable products that make everyday life simpler and cleaner.
-                                Through Gadgetnio, Aqua’s powerful vacuum cleaners are now accessible to households and businesses across Indonesia — designed to combine efficiency, durability, and modern technology in one device.
+                                Aqua Electronics adalah merek terpercaya di kategori peralatan rumah tangga, yang berkomitmen menghadirkan produk inovatif dan andal untuk membuat aktivitas sehari-hari lebih mudah dan higienis.
+                                Melalui Gadgetnio, vacuum cleaner unggulan Aqua kini dapat diakses oleh rumah tangga dan bisnis di seluruh Indonesia — dirancang untuk menghadirkan efisiensi, ketahanan, serta teknologi modern dalam satu perangkat.
                             </p>
-                            <h4>1. Smart Cleaning for Modern Homes</h4>
+                            <h4>1. Pembersihan Cerdas untuk Rumah Modern</h4>
                             <p class="fs-5 mb-6">
-                                Aqua vacuum cleaners are engineered with advanced suction technology and user-friendly design,
-                                making cleaning effortless while maintaining superior performance on every surface.
+                                Vacuum cleaner Aqua dibuat dengan teknologi hisap canggih dan desain yang mudah digunakan,
+                                sehingga proses pembersihan menjadi lebih praktis tanpa mengurangi performa maksimal di berbagai jenis permukaan.
                             </p>
-                            <h4>2. Reliable Quality, Nationwide Distribution</h4>
+                            <h4>2. Kualitas Terpercaya, Distribusi Menjangkau Seluruh Indonesia</h4>
                             <p class="fs-5 mb-0">
-                                Supported by Gadgetnio’s extensive distribution network, Aqua vacuum cleaners are available nationwide,
-                                ensuring genuine products, quick delivery, and dependable after-sales support for all customers.
+                                Didukung oleh jaringan distribusi luas dari Gadgetnio, vacuum cleaner Aqua tersedia secara nasional,
+                                memastikan produk asli, pengiriman cepat, serta dukungan purna jual yang dapat diandalkan bagi seluruh pelanggan.
                             </p>
                         </div>
                     </div>
