@@ -8,7 +8,7 @@
     <section class="banner-section banner-inner-section position-relative overflow-hidden d-flex align-items-end">
         <!-- Background Video -->
         <video autoplay muted loop playsinline class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover z-0">
-            <source src="../assets/images/portfolio/vention-banner.mp4" type="video/mp4">
+            <source src="../../assets/images/portfolio/vention-banner.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
 
@@ -19,10 +19,10 @@
                     <div class="col-xl-4">
                         <div class="d-flex align-items-center gap-4" data-aos="fade-up" data-aos-delay="100"
                             data-aos-duration="1000">
-                            <img src="../assets/images/logos/logo for spin.svg" alt="" class="img-fluid animate-spin">
+                            <img src="../../assets/images/logos/logo for spin.svg" alt="" class="img-fluid animate-spin">
                             <p class="mb-0 text-white fs-5 text-opacity-70">
-                                At Gadgetnio Group, <span class="text-primary">we’re proud to collaborate with many Brands.</span>
-                                We bring these innovative solutions closer to consumers and businesses across Indonesia.
+                                Di Gadgetnio Group, <span class="text-primary">kami bangga berkolaborasi dengan berbagai brand ternama.</span>
+                                Kami menghadirkan solusi inovatif ini lebih dekat kepada konsumen dan pelaku bisnis di seluruh Indonesia.
                             </p>
                         </div>
                     </div>
@@ -45,16 +45,16 @@
         <div class="container">
             <div class="d-flex flex-column gap-5 gap-xl-11">
                 <div class="d-flex flex-column gap-8">
-                    <a href="/portfolio" class="btn py-2 ps-3 pe-5" data-aos="fade-up" data-aos-delay="100"
+                    <a href="/id/portfolio" class="btn py-2 ps-3 pe-5" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
-                        <span class="btn-text pe-1 text-white">Back</span>
+                        <span class="btn-text pe-1 text-white">Kembali</span>
                         <iconify-icon icon="lucide:arrow-up-right"
                             class="btn-icon bg-white text-dark round-36 rounded-circle hstack justify-content-center fs-5 shadow-sm"></iconify-icon>
                     </a>
                     <div class="d-md-flex align-items-center gap-4 gap-lg-8" data-aos="fade-up" data-aos-delay="200"
                         data-aos-duration="1000">
                         <div class="d-flex flex-column gap-2 py-2 pe-4 pe-lg-8 border-end">
-                            <p class="mb-0">Scope of Product</p>
+                            <p class="mb-0">Cakupan Produk</p>
                             <p class="mb-0 text-dark fs-5 fw-medium">USB Cable & Dongle, Lan Cable, HDMI Cable, ETC</p>
                         </div>
                         <div class="d-flex flex-column gap-2 py-2">
@@ -67,25 +67,31 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="row gap-4 gap-lg-0">
                     <div class="col-lg-4">
                         <h2 class="fs-13 mb-0" data-aos="fade-right" data-aos-delay="200" data-aos-duration="1000">
-                            Connecting Possibilities with VENTION
+                            Menghubungkan Beragam Kemungkinan bersama VENTION
                         </h2>
                     </div>
                     <div class="col-lg-8">
                         <div data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
                             <p class="fs-5 mb-6">
-                                VENTION is a trusted global brand specializing in high-performance connectivity solutions — from USB and HDMI cables to adapters, dongles, chargers, and RJ45 networks.
-                                Through Gadgetnio, VENTION brings reliable and efficient products that keep devices connected seamlessly across homes, offices, and industries throughout Indonesia.
+                                VENTION adalah brand global terpercaya yang berfokus pada solusi konektivitas berkinerja tinggi — mulai dari kabel USB dan HDMI,
+                                adaptor, dongle, charger, hingga jaringan RJ45. Melalui Gadgetnio, VENTION menghadirkan produk andal dan efisien yang membantu
+                                perangkat tetap terhubung dengan mulus di rumah, kantor, hingga industri di seluruh Indonesia.
                             </p>
-                            <h4>1. Reliable Connections, Superior Quality</h4>
+
+                            <h4>1. Koneksi Stabil, Kualitas Unggul</h4>
                             <p class="fs-5 mb-6">
-                                Each VENTION product is built with precision engineering and durable materials to ensure stable data transmission, fast charging, and long-lasting performance — supporting both productivity and entertainment.
+                                Setiap produk VENTION dirancang dengan presisi dan material yang tahan lama untuk memastikan transmisi data yang stabil,
+                                pengisian daya cepat, serta performa jangka panjang — mendukung produktivitas maupun kebutuhan hiburan.
                             </p>
-                            <h4>2. Comprehensive Range, Nationwide Availability</h4>
+
+                            <h4>2. Pilihan Lengkap, Tersedia di Seluruh Indonesia</h4>
                             <p class="fs-5 mb-0">
-                                From essential cables to advanced adapters, Gadgetnio’s distribution network ensures VENTION accessories are available nationwide, offering genuine products and dependable after-sales service for every need.
+                                Mulai dari kabel esensial hingga adaptor tingkat lanjut, jaringan distribusi Gadgetnio memastikan produk VENTION tersedia secara nasional,
+                                menghadirkan keaslian produk serta layanan purna jual yang dapat diandalkan untuk setiap kebutuhan.
                             </p>
                         </div>
                     </div>
@@ -93,13 +99,13 @@
 
                 <div class="row">
                     <div class="col-12 mb-7" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-                        <img src="../assets/images/portfolio/portfolio-img-4.jpg" alt="services" class="w-100 object-fit-cover">
+                        <img src="../../assets/images/portfolio/portfolio-img-4.jpg" alt="services" class="w-100 object-fit-cover">
                     </div>
                     <div class="col-lg-6 mb-7" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-                        <img src="../assets/images/portfolio/portfolio-img-2.jpg" alt="services" class="w-100 object-fit-cover">
+                        <img src="../../assets/images/portfolio/portfolio-img-2.jpg" alt="services" class="w-100 object-fit-cover">
                     </div>
                     <div class="col-lg-6 mb-7" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-                        <img src="../assets/images/portfolio/portfolio-img-3.jpg" alt="services" class="w-100 object-fit-cover">
+                        <img src="../../assets/images/portfolio/portfolio-img-3.jpg" alt="services" class="w-100 object-fit-cover">
                     </div>
                 </div>
             </div>
