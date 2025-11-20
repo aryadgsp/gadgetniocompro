@@ -45,7 +45,7 @@
         <div class="container">
             <div class="d-flex flex-column gap-5 gap-xl-11">
                 <div class="d-flex flex-column gap-8">
-                    <a href="/portfolio" class="btn py-2 ps-3 pe-5" data-aos="fade-up" data-aos-delay="100"
+                    <a href="/id/portfolio" class="btn py-2 ps-3 pe-5" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <span class="btn-text pe-1 text-white">Kembali</span>
                         <iconify-icon icon="lucide:arrow-up-right"
