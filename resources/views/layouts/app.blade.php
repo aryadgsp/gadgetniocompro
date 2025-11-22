@@ -111,7 +111,7 @@
                         <ul class="dropdown-menu dropdown-menu-end p-4">
                             <div class="d-flex flex-column gap-6">
                                 <div class="hstack justify-content-between border-bottom pb-6">
-                                    <p class="mb-0 fs-5 text-dark">Menu</p>
+                                    <h1 class="mb-0 fs-5 text-dark">Menu</h1>
                                     <button type="button" class="btn-close opacity-75" aria-label="Close"></button>
                                 </div>
                                 <div class="d-flex flex-column gap-3">
