@@ -86,38 +86,6 @@
                 </div>
                 <div class="d-flex align-items-center gap-4">
 
-                    <!-- Toggle Bahasa -->
-                    <div class="btn-group lang-toggle">
-                        @php
-                        $currentUrl = request()->path();
-                        $isIndo = preg_match('/^id(\/)?/', $currentUrl);
-
-                        // URL EN
-                        if ($isIndo) {
-                        preg_match('/^id\/?(.*)$/', $currentUrl, $match);
-                        $englishPath = $match[1] ?? '';
-                        $toEnglish = url($englishPath === '' ? '/' : $englishPath);
-                        } else {
-                        $toEnglish = url($currentUrl === '' ? '/' : $currentUrl);
-                        }
-
-                        // URL ID
-                        $toIndo = $isIndo ? url($currentUrl) : url('id/' . $currentUrl);
-                        @endphp
-
-                        <!-- EN -->
-                        <a href="{{ $toEnglish }}"
-                            class="{{ !$isIndo ? 'lang-active' : 'lang-inactive' }}">
-                            EN
-                        </a>
-
-                        <!-- ID -->
-                        <a href="{{ $toIndo }}"
-                            class="{{ $isIndo ? 'lang-active' : 'lang-inactive' }}">
-                            ID
-                        </a>
-                    </div>
-
                     <div class="btn-group">
                         <button
                             class="btn btn-secondary toggle-menu round-45 p-2 d-flex align-items-center justify-content-center bg-white rounded-circle"
@@ -163,6 +131,37 @@
                                     <a class="text-dark" href="tel:+6289691009400">+6289691009400</a>
                                     <a class="fs-8 text-dark fw-bold" href="mailto:info@gadgetnio.com">info@gadgetnio.com</a>
                                 </div>
+                            </div>
+                            <!-- Toggle Bahasa -->
+                            <div class="btn-group lang-toggle">
+                                @php
+                                $currentUrl = request()->path();
+                                $isIndo = preg_match('/^id(\/)?/', $currentUrl);
+
+                                // URL EN
+                                if ($isIndo) {
+                                preg_match('/^id\/?(.*)$/', $currentUrl, $match);
+                                $englishPath = $match[1] ?? '';
+                                $toEnglish = url($englishPath === '' ? '/' : $englishPath);
+                                } else {
+                                $toEnglish = url($currentUrl === '' ? '/' : $currentUrl);
+                                }
+
+                                // URL ID
+                                $toIndo = $isIndo ? url($currentUrl) : url('id/' . $currentUrl);
+                                @endphp
+
+                                <!-- EN -->
+                                <a href="{{ $toEnglish }}"
+                                    class="{{ !$isIndo ? 'lang-active' : 'lang-inactive' }}">
+                                    EN
+                                </a>
+
+                                <!-- ID -->
+                                <a href="{{ $toIndo }}"
+                                    class="{{ $isIndo ? 'lang-active' : 'lang-inactive' }}">
+                                    ID
+                                </a>
                             </div>
                         </ul>
                     </div>
