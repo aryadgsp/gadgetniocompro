@@ -68,7 +68,7 @@
                 <div class="row justify-content-between gap-7 gap-xl-0">
                     <div class="col-xl-3">
                         <p class="mb-0 fs-5" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">Let’s collaborate
-                            and create something amazing! Tell me about your product—I’m all
+                            and create something amazing! Tell me about your product—We all
                             ears.</p>
                     </div>
                     <div class="col-xl-8">
