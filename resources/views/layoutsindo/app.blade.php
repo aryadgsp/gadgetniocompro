@@ -40,33 +40,49 @@
         /* atau '#008CFF' jika projectmu tidak menggunakan bootstrap vars */
     }
 
-    /* Wrapper untuk grouping EN/ID */
+    /* Wrapper */
+    .lang-toggle {
+        display: inline-flex;
+        background: #f1f6ff;
+        padding: 4px;
+        border-radius: 40px;
+        gap: 4px;
+        border: 1px solid #d6e4ff;
+    }
+
+    /* Tombol */
     .lang-toggle a {
-        padding: 6px 14px !important;
-        border-radius: 6px !important;
+        padding: 6px 18px;
+        border-radius: 30px;
         font-weight: 600;
-        border: 1px solid #008CFF !important;
-        /* warna primary kamu */
-        transition: 0.2s ease;
+        font-size: 14px;
+        color: #008CFF;
+        text-decoration: none;
+        transition: all 0.25s ease;
     }
 
-    /* Tombol tidak aktif */
-    .lang-toggle a.lang-inactive {
-        background: #ffffff !important;
-        color: #008CFF !important;
-    }
-
-    /* Tombol aktif */
+    /* Aktif */
     .lang-toggle a.lang-active {
-        background: #008CFF !important;
-        color: #ffffff !important;
+        background: #008CFF;
+        color: #ffffff;
+        box-shadow: 0 2px 8px rgba(0, 140, 255, 0.25);
     }
 
-    /* Mobile version */
+    /* Hover */
+    .lang-toggle a:hover {
+        background: rgba(0, 140, 255, 0.1);
+    }
+
+    /* Hover khusus aktif */
+    .lang-toggle a.lang-active:hover {
+        background: #0078db;
+    }
+
+    /* Mobile */
     @media (max-width: 576px) {
         .lang-toggle a {
-            padding: 3px 10px !important;
-            font-size: 12px !important;
+            padding: 4px 14px;
+            font-size: 12px;
         }
     }
 </style>
@@ -133,7 +149,7 @@
                                 </div>
                             </div>
                             <!-- Toggle Bahasa -->
-                            <div class="btn-group lang-toggle">
+                            <div class="lang-toggle">
                                 @php
                                 $currentUrl = request()->path();
                                 $isIndo = preg_match('/^id(\/)?/', $currentUrl);
