@@ -1,6 +1,9 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ContactController;
+
+Route::post('/contact/send', [ContactController::class, 'sendEnquiry'])->name('contact.send');
 
 Route::get('/', function () {
     return view('index');

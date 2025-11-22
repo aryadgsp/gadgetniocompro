@@ -84,28 +84,30 @@
                         <form class="d-flex flex-column gap-7"
                             data-aos="fade-up"
                             data-aos-delay="200"
-                            data-aos-duration="1000">
+                            data-aos-duration="1000"
+                            method="POST"
+                            action="{{ route('contact.send') }}">
+
+                            @csrf
 
                             <div>
-                                <input type="text" class="form-control border-bottom border-dark"
-                                    id="formGroupExampleInput"
-                                    placeholder="Nama">
+                                <input type="text" name="name" class="form-control border-bottom border-dark"
+                                    placeholder="Nama" required>
                             </div>
 
                             <div>
-                                <input type="tel" class="form-control border-bottom border-dark"
-                                    id="exampleInputPhone" placeholder="Nomor Telepon" aria-describedby="phoneHelp">
+                                <input type="tel" name="phone" class="form-control border-bottom border-dark"
+                                    placeholder="Nomor Telepon" required>
                             </div>
 
                             <div>
-                                <input type="email" class="form-control border-bottom border-dark"
-                                    id="exampleInputEmail1" placeholder="Email" aria-describedby="emailHelp">
+                                <input type="email" name="email" class="form-control border-bottom border-dark"
+                                    placeholder="Email" required>
                             </div>
 
                             <div>
-                                <textarea class="form-control border-bottom border-dark"
-                                    id="exampleFormControlTextarea1"
-                                    placeholder="Ceritakan project Anda" rows="3"></textarea>
+                                <textarea name="message" class="form-control border-bottom border-dark"
+                                    placeholder="Ceritakan project Anda" rows="3" required></textarea>
                             </div>
 
                             <button type="submit" class="btn w-100 justify-content-center">
@@ -116,6 +118,13 @@
                             </button>
 
                         </form>
+
+                        @if(session('success'))
+                        <div class="alert alert-success mt-3">
+                            {{ session('success') }}
+                        </div>
+                        @endif
+
                     </div>
 
                 </div>
