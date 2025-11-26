@@ -69,7 +69,8 @@
                 </div>
                 <div class="row gap-4 gap-lg-0">
                     <div class="col-lg-4">
-                        <h2 class="fs-13 mb-0" data-aos="fade-right" data-aos-delay="200" data-aos-duration="1000">Empowering Connectivity with UGREEN
+                        <h2 class="fs-13 mb-0" data-aos="fade-right" data-aos-delay="200" data-aos-duration="1000">
+                            Enhancing Spiritual Connection with IQibla
                         </h2>
                     </div>
                     <div class="col-lg-8">
