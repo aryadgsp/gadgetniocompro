@@ -311,6 +311,28 @@
                     <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                         data-aos-duration="1000">
                         <div class="portfolio-img position-relative">
+                            <img src="../assets/images/portfolio/iqibla.png" alt="" class="img-fluid w-100">
+
+                            <div class="portfolio-overlay"></div>
+
+                            <div class="portfolio-content">
+                                <h5>Zikr Rings</h5>
+                                <a href="/id/partner/iqibla"
+                                    class="bg-primary round-64 rounded-circle hstack justify-content-center d-inline-flex"
+                                    style="width:48px; height:48px;">
+                                    <iconify-icon icon="lucide:arrow-up-right" class="fs-6 text-white"></iconify-icon>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="portfolio-details d-flex flex-column gap-3">
+                            <h3 class="mb-0">IQIBLA</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-7">
+                    <div class="portfolio d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
+                        data-aos-duration="1000">
+                        <div class="portfolio-img position-relative">
                             <img src="../assets/images/portfolio/kiip.png" alt="" class="img-fluid w-100">
 
                             <div class="portfolio-overlay"></div>

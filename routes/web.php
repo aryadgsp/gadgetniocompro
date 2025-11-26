@@ -116,6 +116,10 @@ Route::prefix('partner')->group(function () {
     Route::get('/yesoul', function () {
         return view('partner.yesoul');
     })->name('partner.yesoul');
+
+    Route::get('/iqibla', function () {
+        return view('partner.iqibla');
+    })->name('partner.iqibla');
 });
 
 // Routes for Bahasa Indonesia Version
@@ -233,5 +237,9 @@ Route::prefix('id')->name('id.')->group(function () {
         Route::get('/yesoul', function () {
             return view('id.partner.yesoul');
         })->name('id.partner.yesoul');
+
+        Route::get('/iqibla', function () {
+            return view('id.partner.iqibla');
+        })->name('id.partner.iqibla');
     });
 });
