@@ -146,9 +146,9 @@
                                 <div>
                                     <!-- Gunakan wa.me untuk kompatibilitas terbaik -->
                                     <a class="text-dark"
-                                        href="https://wa.me/6289691009400?text=Halo%2C%20saya%20ingin%20bertanya%20tentang%20Gadgetnio"
+                                        href="https://wa.me/6287808783500?text=Halo%2C%20saya%20ingin%20bertanya%20tentang%20Gadgetnio"
                                         target="_blank" rel="noopener">
-                                        +6289691009400
+                                        +6287808783500
                                     </a>
                                     <a class="fs-8 text-dark fw-bold" href="mailto:info@gadgetnio.com">info@gadgetnio.com</a>
                                 </div>
