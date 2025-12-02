@@ -52,8 +52,8 @@ $images = File::files(public_path('assets/images/pricing'));
                         <div class="d-flex align-items-center gap-4" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
                             <img src="../assets/images/logos/logo for spin.svg" alt="" class="img-fluid animate-spin">
                             <p class="mb-0 text-white fs-5 text-opacity-70">
-                                Kami <span class="text-primary">Menghadirkan Gaya Hidup Digital yang Lebih Mudah.</span>
-                                Distributor elektronik dan gadget terpercaya yang menghubungkan brand kelas dunia dengan pasar Indonesia.
+                                Kami <span class="text-primary">membawa pengalaman gaya hidup digital yang lebih praktis dan menyenangkan.</span>
+                                Sebagai distributor elektronik dan gadget terpercaya, kami menghubungkan berbagai brand kelas dunia dengan pasar Indonesia.
                             </p>
                         </div>
                     </div>
@@ -84,9 +84,11 @@ $images = File::files(public_path('assets/images/pricing'));
                             <div class="col-xxl-8">
                                 <div class="d-flex flex-column gap-6" data-aos="fade-up" data-aos-delay="100"
                                     data-aos-duration="1000">
-                                    <h2 class="mb-0">Angka Kami Berbicara dengan Sendirinya.</h2>
-                                    <p class="fs-5 mb-0">Kami menghadirkan gadget inovatif dan elektronik berkualitas tinggi
-                                        untuk membantu individu dan bisnis tetap unggul di dunia digital yang terus berubah.</p>
+                                    <h2 class="mb-0">Data yang Berbicara.</h2>
+                                    <p class="fs-5 mb-0">
+                                        Kami menghadirkan gadget inovatif dan elektronik berkualitas, membantu individu maupun bisnis
+                                        tetap maju dan relevan di tengah perkembangan dunia digital yang begitu cepat.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -161,8 +163,8 @@ $images = File::files(public_path('assets/images/pricing'));
                                     data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
                                     <h2 class="mb-0">Menghadirkan Teknologi, Menghubungkan Orang</h2>
                                     <p class="fs-5 mb-0 text-opacity-70">
-                                        Gadgetnio Group menawarkan solusi distribusi dan suplai yang lengkap
-                                        untuk kebutuhan bisnis maupun konsumen.
+                                        Gadgetnio Group menyediakan layanan distribusi dan suplai yang lengkap,
+                                        mendukung kebutuhan bisnis maupun konsumen dengan solusi yang terpercaya.
                                     </p>
                                 </div>
                             </div>
@@ -189,8 +191,8 @@ $images = File::files(public_path('assets/images/pricing'));
                                             </div>
                                             <div class="col-lg-6 col-xxl-7">
                                                 <p class="text-black text-opacity-70 mb-0">
-                                                    Kami menghubungkan brand teknologi terkemuka dengan pasar melalui jaringan distribusi yang andal,
-                                                    skalabel, dan berbasis data — memastikan setiap inovasi sampai ke tangan yang tepat.
+                                                    Kami membantu brand teknologi terkemuka untuk menjangkau pasar melalui jaringan distribusi yang andal,
+                                                    fleksibel, dan berbasis data — memastikan setiap inovasi sampai ke tangan yang tepat.
                                                 </p>
                                             </div>
                                         </div>
@@ -228,7 +230,7 @@ $images = File::files(public_path('assets/images/pricing'));
                                             <div class="col-lg-6 col-xxl-7">
                                                 <p class="text-black text-opacity-70 mb-0">
                                                     Dengan sistem logistik yang efisien dan layanan purna jual yang responsif,
-                                                    kami memastikan pengiriman tepat waktu, kualitas produk terjaga, dan kepuasan pelanggan di setiap titik layanan.
+                                                    kami memastikan produk tiba tepat waktu, kualitas tetap terjaga, dan pelanggan mendapatkan pengalaman terbaik di setiap layanan.
                                                 </p>
                                             </div>
                                         </div>
@@ -241,25 +243,24 @@ $images = File::files(public_path('assets/images/pricing'));
                                                 <button class="nav-link fs-10 fw-bold py-1 px-0 border-0 rounded-0 flex-shrink-0 text-black"
                                                     id="four-tab" data-bs-toggle="tab" data-bs-target="#four" type="button"
                                                     role="tab" aria-controls="four" aria-selected="false">
-                                                    Solusi Pengadaan Korporat
+                                                    Solusi Pengadaan untuk Korporasi
                                                 </button>
                                             </div>
                                             <div class="col-lg-6 col-xxl-7">
                                                 <p class="text-black text-opacity-70 mb-0">
-                                                    Kami menyediakan layanan pengadaan yang disesuaikan untuk perusahaan —
-                                                    menghadirkan gadget berkualitas tinggi, harga kompetitif, dan proses yang mudah bagi kebutuhan organisasi Anda.
+                                                    Kami menawarkan layanan pengadaan yang dirancang khusus untuk kebutuhan perusahaan —
+                                                    menyediakan gadget berkualitas, harga yang kompetitif, dan proses yang mudah bagi organisasi Anda.
                                                 </p>
                                             </div>
                                         </div>
                                     </li>
-
                                 </ul>
 
                                 <!-- Button Center -->
                                 <div class="d-flex justify-content-center">
                                     <a href="/id/portfolio" class="btn border border-white border-opacity-25"
                                         data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-                                        <span class="btn-text text-white">Lihat Partner Kami</span>
+                                        <span class="btn-text text-white">Cek Partner Kami</span>
                                         <iconify-icon icon="lucide:arrow-up-right"
                                             class="btn-icon bg-white text-dark round-52 rounded-circle hstack justify-content-center fs-7 shadow-sm">
                                         </iconify-icon>
@@ -434,8 +435,8 @@ $images = File::files(public_path('assets/images/pricing'));
                                     data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
                                     <h2 class="mb-0">Apa Kata Partner Kami</h2>
                                     <p class="fs-5 mb-0 text-opacity-70">
-                                        Pengalaman nyata, feedback asli — temukan bagaimana solusi kami membantu
-                                        mengembangkan brand dan meningkatkan performa bisnis.
+                                        Pengalaman nyata dan feedback asli — lihat bagaimana solusi kami membantu brand berkembang
+                                        dan meningkatkan performa bisnis mereka.
                                     </p>
                                 </div>
                             </div>
@@ -455,7 +456,7 @@ $images = File::files(public_path('assets/images/pricing'));
                                 <div class="d-flex flex-column gap-4">
                                     <p class="mb-0 text-black">Feedback mereka</p>
                                     <h4 class="mb-0 text-black">
-                                        Tim support responsif dan sangat membantu, rasanya seperti bekerja dengan partner sejati!
+                                        Tim supportnya responsif dan sangat membantu — benar-benar terasa seperti bekerja dengan partner yang sesungguhnya!
                                     </h4>
                                 </div>
 
@@ -482,7 +483,7 @@ $images = File::files(public_path('assets/images/pricing'));
                                     <p class="mb-0 text-white text-opacity-70">Feedback mereka</p>
                                     <h4 class="mb-0 text-white pe-xl-2">
                                         Gadgetnio Group adalah partner distribusi yang luar biasa.
-                                        Keandalan dan profesionalisme mereka membuat bisnis kami lebih lancar dari sebelumnya!
+                                        Keandalan dan profesionalisme mereka membuat operasional bisnis kami jauh lebih lancar!
                                     </h4>
                                 </div>
 
@@ -515,7 +516,7 @@ $images = File::files(public_path('assets/images/pricing'));
                                 <div class="d-flex flex-column gap-4">
                                     <p class="mb-0">Feedback mereka</p>
                                     <h4 class="mb-0">
-                                        Gadgetnio membantu memenuhi kebutuhan gadget dan aksesori digital kami!
+                                        Gadgetnio membantu memenuhi kebutuhan gadget dan aksesoris digital kami!
                                     </h4>
                                 </div>
 
@@ -560,8 +561,8 @@ $images = File::files(public_path('assets/images/pricing'));
                                     data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
                                     <h2 class="mb-0">Pertanyaan yang Sering Diajukan</h2>
                                     <p class="fs-5 mb-0 text-opacity-70">
-                                        Pelajari bagaimana kami menyesuaikan solusi untuk memenuhi kebutuhan unik,
-                                        menghadirkan strategi yang berdampak, branding yang personal, dan pengalaman pelanggan yang lebih baik.
+                                        Pelajari bagaimana kami menyesuaikan solusi untuk memenuhi kebutuhan unik setiap brand —
+                                        menghadirkan strategi yang efektif, branding yang lebih personal, dan pengalaman pelanggan yang lebih baik.
                                     </p>
                                 </div>
                             </div>
@@ -581,14 +582,14 @@ $images = File::files(public_path('assets/images/pricing'));
                                     <button class="accordion-button collapsed fs-8 fw-bold" type="button"
                                         data-bs-toggle="collapse" data-bs-target="#flush-collapseOne"
                                         aria-expanded="false" aria-controls="flush-collapseOne">
-                                        Apakah kalian menjual langsung ke konsumen?
+                                        Apakah Gadgetnio menjual langsung ke konsumen?
                                     </button>
                                 </h2>
                                 <div id="flush-collapseOne" class="accordion-collapse collapse"
                                     data-bs-parent="#accordionFlushExample">
                                     <div class="accordion-body pt-0 fs-5 text-black">
-                                        Kami menjual produk secara langsung kepada pelanggan, dan juga terbuka untuk berkolaborasi 
-                                        melalui berbagai skema bisnis lainnya sesuai kebutuhan mitra.
+                                        Kami menjual produk langsung kepada pelanggan, dan juga terbuka untuk berkolaborasi
+                                        melalui berbagai skema bisnis sesuai kebutuhan para mitra.
                                     </div>
                                 </div>
                             </div>
@@ -623,7 +624,7 @@ $images = File::files(public_path('assets/images/pricing'));
                                 <div id="flush-collapseThree" class="accordion-collapse collapse"
                                     data-bs-parent="#accordionFlushExample">
                                     <div class="accordion-body pt-0 fs-5 text-black">
-                                        Kami melayani partner dan pelanggan di seluruh kota di Indonesia.
+                                        Kami melayani partner dan pelanggan di seluruh Indonesia.
                                         Kami juga terbuka untuk kerja sama dengan brand internasional.
                                     </div>
                                 </div>
@@ -635,14 +636,14 @@ $images = File::files(public_path('assets/images/pricing'));
                                     <button class="accordion-button collapsed fs-8 fw-bold" type="button"
                                         data-bs-toggle="collapse" data-bs-target="#flush-collapseFour"
                                         aria-expanded="false" aria-controls="flush-collapseFour">
-                                        Produk apa saja yang kalian distribusikan?
+                                        Produk apa saja yang Gadgetnio distribusikan?
                                     </button>
                                 </h2>
                                 <div id="flush-collapseFour" class="accordion-collapse collapse"
                                     data-bs-parent="#accordionFlushExample">
                                     <div class="accordion-body pt-0 fs-5 text-black">
                                         Kami mendistribusikan beragam elektronik dan gadget
-                                        — termasuk aksesori smartphone dan smart devices dari brand global.
+                                        — termasuk aksesoris smartphone dan smart devices dari brand global.
                                     </div>
                                 </div>
                             </div>
@@ -659,9 +660,9 @@ $images = File::files(public_path('assets/images/pricing'));
                                 <div id="flush-collapseFive" class="accordion-collapse collapse"
                                     data-bs-parent="#accordionFlushExample">
                                     <div class="accordion-body pt-0 fs-5 text-black">
-                                        Ya. Kami memiliki program afiliasi yang memungkinkan individu atau bisnis
+                                        Ya, kami memiliki program afiliasi yang memungkinkan individu maupun bisnis
                                         mendapatkan komisi dengan mempromosikan produk kami.
-                                        Hubungi tim kami untuk informasi pendaftaran dan struktur komisi.
+                                        Hubungi tim kami untuk informasi pendaftaran dan rincian struktur komisinya.
                                     </div>
                                 </div>
                             </div>
@@ -707,7 +708,7 @@ $images = File::files(public_path('assets/images/pricing'));
                     <div class="col-xl-3">
                         <p class="mb-0 fs-5"
                             data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">
-                            Mari berkolaborasi dan ciptakan sesuatu yang luar biasa!
+                            Ayo berkolaborasi untuk menciptakan sesuatu yang luar biasa.
                             Ceritakan kebutuhan atau produk Anda — kami siap mendengarkan.
                         </p>
                     </div>
@@ -756,7 +757,7 @@ $images = File::files(public_path('assets/images/pricing'));
                             {{ session('success') }}
                         </div>
                         @endif
-                        
+
                     </div>
 
                 </div>

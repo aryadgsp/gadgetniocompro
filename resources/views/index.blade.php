@@ -557,7 +557,7 @@ $images = File::files(public_path('assets/images/pricing'));
                                 </h2>
                                 <div id="flush-collapseThree" class="accordion-collapse collapse"
                                     data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body pt-0 fs-5 text-black">We serve partners and customer across all cities in Indonesia. We’re open for partnerships with global brands.</div>
+                                    <div class="accordion-body pt-0 fs-5 text-black">We serve partners and customer across Indonesia. We’re open for partnerships with global brands.</div>
                                 </div>
                             </div>
                             <div class="accordion-item">

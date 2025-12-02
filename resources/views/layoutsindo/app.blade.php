@@ -198,7 +198,7 @@
             <div class="row">
                 <div class="col-xl-5 mb-8 mb-xl-0">
                     <div class="d-flex flex-column gap-8 pe-xl-5">
-                        <h2 class="mb-0 text-black">Membangun sesuatu bersama?</h2>
+                        <h2 class="mb-0 text-black">Siap membangun sesuatu bersama?</h2>
                         <div class="d-flex flex-column gap-2">
                             <a href="https://www.gadgetnio.com/" target="_blank" class="link-hover hstack gap-3 text-black fs-5">
                                 <iconify-icon icon="lucide:arrow-up-right" class="fs-7 text-primary"></iconify-icon>
