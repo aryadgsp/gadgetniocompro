@@ -42,14 +42,14 @@
                             data-aos-duration="1000">
                             <p class="mb-0 fs-5 text-black">
                                 Gadgetnio Group adalah distributor elektronik dan gadget terkemuka di Indonesia,
-                                menghubungkan brand kelas dunia dengan pasar lokal. Kami berfokus pada penyediaan produk
-                                berkualitas tinggi, logistik yang efisien, dan kemitraan jangka panjang yang membantu
-                                retailer, reseller, dan klien korporat berkembang di era digital.
+                                yang menjembatani brand kelas dunia dengan pasar lokal. Kami berkomitmen menghadirkan produk berkualitas,
+                                logistik yang efisien, serta kemitraan jangka panjang yang membantu retailer, reseller, dan klien korporat
+                                untuk berkembang di era digital.
                             </p>
                             <p class="mb-0 fs-5 text-black">
-                                Dengan pengalaman bertahun-tahun dan jaringan nasional yang kuat, kami membangun reputasi
-                                melalui kepercayaan, autentisitas, dan inovasi. Mulai dari smartphone terbaru hingga perangkat elektronik esensial,
-                                Gadgetnio Group memastikan setiap produk dan kerja sama memenuhi standar keandalan tertinggi.
+                                Dengan pengalaman bertahun-tahun dan jaringan nasional yang kuat, kami membangun reputasi melalui kepercayaan,
+                                konsistensi, dan inovasi. Mulai dari aksesoris gadget terbaru hingga perangkat elektronik esensial,
+                                Gadgetnio Group memastikan setiap produk dan kolaborasi memenuhi standar kualitas dan keandalan tertinggi.
                             </p>
                         </div>
                     </div>
@@ -60,7 +60,7 @@
                             <h2 class="mb-0 fs-13 pb-7 border-bottom"><span class="count" data-target="45">20</span>+</h2>
                             <div class="d-flex flex-column gap-3">
                                 <h4 class="mb-0">Partner Bisnis</h4>
-                                <p class="mb-0">Bercolaborasi dengan lebih dari 500 retailer, reseller, dan klien korporat di seluruh Indonesia.</p>
+                                <p class="mb-0">Berkolaborasi dengan lebih dari 500 retailer, reseller, dan klien korporat di seluruh Indonesia.</p>
                             </div>
                         </div>
                     </div>
@@ -78,7 +78,7 @@
                             <h2 class="mb-0 fs-13 pb-7 border-bottom"><span class="count" data-target="158">10</span>+</h2>
                             <div class="d-flex flex-column gap-3">
                                 <h4 class="mb-0">Tahun Pengalaman</h4>
-                                <p class="mb-0">Lebih dari satu dekade memberikan layanan terpercaya di industri distribusi elektronik dan gadget Indonesia.</p>
+                                <p class="mb-0">Lebih dari satu dekade memberikan layanan terpercaya di industri distribusi elektronik dan gadget di Indonesia.</p>
                             </div>
                         </div>
                     </div>
