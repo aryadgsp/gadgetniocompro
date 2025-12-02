@@ -76,7 +76,8 @@
                             data-aos="fade-right"
                             data-aos-delay="100"
                             data-aos-duration="1000">
-                            Mari berkolaborasi dan ciptakan sesuatu yang luar biasa! Ceritakan produk atau kebutuhan Anda — kami siap mendengarkan.
+                            Ayo berkolaborasi untuk menciptakan sesuatu yang luar biasa.
+                            Ceritakan kebutuhan atau produk Anda — kami siap mendengarkan.
                         </p>
                     </div>
 
