@@ -637,12 +637,12 @@ $images = File::files(public_path('assets/images/pricing'));
 
                             <div>
                                 <input type="text" name="name" class="form-control border-bottom border-dark"
-                                    placeholder="Nama" required>
+                                    placeholder="Name" required>
                             </div>
 
                             <div>
                                 <input type="tel" name="phone" class="form-control border-bottom border-dark"
-                                    placeholder="Nomor Telepon" required>
+                                    placeholder="Phone" required>
                             </div>
 
                             <div>
@@ -652,11 +652,11 @@ $images = File::files(public_path('assets/images/pricing'));
 
                             <div>
                                 <textarea name="message" class="form-control border-bottom border-dark"
-                                    placeholder="Ceritakan project Anda" rows="3" required></textarea>
+                                    placeholder="Tell us about your project" rows="3" required></textarea>
                             </div>
 
                             <button type="submit" class="btn w-100 justify-content-center">
-                                <span class="btn-text text-white">Kirim Pesan</span>
+                                <span class="btn-text text-white">Submit message</span>
                                 <iconify-icon icon="lucide:arrow-up-right"
                                     class="btn-icon bg-white text-dark round-52 rounded-circle hstack justify-content-center fs-7 shadow-sm">
                                 </iconify-icon>
